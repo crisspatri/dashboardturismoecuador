@@ -1,0 +1,1333 @@
+"TRAMO","VEHICULO","ENTRADAS","ID"
+"Cuenca - Nulti","MOTOS",42,1
+"El Cajas - Cuenca","MOTOS",81,2
+"Cuenca - Loja","MOTOS",167,3
+"Paute - Gualaceo","MOTOS",74,4
+"Paute - Santiago De Méndez","MOTOS",19,5
+"Santa Isabel - Pasaje","MOTOS",158,6
+"Sigsig - Gualaquiza","MOTOS",36,7
+"Cuenca - Puerto Inca","MOTOS",18,8
+"Nulti - Gualaceo (Chordeleg - Gualaceo)","MOTOS",0,9
+"Y El Cabo - Cuenca","MOTOS",83,10
+"Y El Cabo - Paute","MOTOS",51,11
+"Y El Cabo - Gualaceo","MOTOS",53,12
+"Y De Cuenca - Cuenca","MOTOS",22,13
+"Y De Cuenca- Loja","MOTOS",11,14
+"Y De Cuenca - Pasaje","MOTOS",13,15
+"Guanujo - Guaranda","MOTOS",177,16
+"Guaranda - Santa Fe","MOTOS",69,17
+"Guaranda - Cashisagua","MOTOS",43,18
+"Ambato - Guaranda","MOTOS",7,19
+"Cañar - Biblian","MOTOS",34,20
+"Biblian - Azogues","MOTOS",25,21
+"Zhud - La Troncal","MOTOS",98,22
+"La Troncal - Cochancay","MOTOS",1167,23
+"Biblian - Azogues","MOTOS",59,24
+"El Tambo - Cañar","MOTOS",47,25
+"Azogues - Cuenca","MOTOS",92,26
+"La Troncal - Puerto Inca","MOTOS",329,27
+"Y De Suscal - Suscal","MOTOS",10,28
+"Y De Suscal - El Tambo","MOTOS",20,29
+"Y De Suscal - Chunchi","MOTOS",13,30
+"Julio Andrade - Huaca","MOTOS",204,31
+"El Ángel - Mira","MOTOS",18,32
+"Tulcán - Julio Andrade","MOTOS",52,33
+"Tufiño - Tulcán","MOTOS",89,34
+"El Ángel - Bolívar","MOTOS",19,35
+"Tlcán- Ipiales","MOTOS",843,36
+"Penipe - Riobamba","MOTOS",130,37
+"Ambato - Riobamba","MOTOS",1169,38
+"Riobamba - Villa Unión","MOTOS",58,39
+"Colay - Atillo","MOTOS",21,40
+"Guamote - Alausí","MOTOS",52,41
+"Riobamba - Pallatanga","MOTOS",134,42
+"Alausí - El Triunfo","MOTOS",49,43
+"Latacunga - La Maná","MOTOS",97,44
+"Lasso - Latacunga","MOTOS",134,45
+"Latacunga - Salcedo","MOTOS",178,46
+"La Maná - Puembo","MOTOS",1057,47
+"Salcedo - Ambato (Panzaleo)","MOTOS",82,48
+"Y de Bellavista - Santa Rosa","MOTOS",306,49
+"Y de Bellavista - Arenillas","MOTOS",260,50
+"Y de Bellavista - La Avanzada","MOTOS",55,51
+"Entrada al Puerto - Machala","MOTOS",4349,52
+"Santa Isabel - Pasaje","MOTOS",438,53
+"Machala - Santa Rosa","MOTOS",694,54
+"Arenillas - Piñas","MOTOS",62,55
+"Arenillas - Alamor","MOTOS",203,56
+"Huaquillas - Aguas Verdes","MOTOS",67,57
+"Y de Pasaje - Machala","MOTOS",1264,58
+"Y de Pasaje - Pasaje","MOTOS",867,59
+"Y de Pasaje - Santa Rosa","MOTOS",432,60
+"Y de La Victoria - La María","MOTOS",882,61
+"Y de La Victoria - Paccha","MOTOS",389,62
+"Y de La Victoria - Pasaje","MOTOS",1168,63
+"El Cambio - Machala","MOTOS",1421,64
+"El Cambio - El Guabo","MOTOS",748,65
+"El Cambio - Pasaje","MOTOS",1135,66
+"La María - Machala","MOTOS",298,67
+"La María - La Victoria","MOTOS",293,68
+"La María - Santa Rosa","MOTOS",373,69
+"Y de San Lorenzo - Borbón","MOTOS",263,70
+"Y de San Lorenzo - San Lorenzo","MOTOS",432,71
+"Y de San Lorenzo - Calderón","MOTOS",369,72
+"Redondel Central - Puerto Artesanal","MOTOS",939,73
+"Atacames - Muisne","MOTOS",79,74
+"Puerto Quito - La Indepedencia","MOTOS",704,75
+"Rosa Zarate - Santo Domingo","MOTOS",1234,76
+"Colombia - Ecuador","MOTOS",154,77
+"San Mateo - Esmeraldas","MOTOS",305,78
+"San Mateo - Tachina","MOTOS",198,79
+"San Mateo - Viche","MOTOS",280,80
+"Y de Esmeraldas - Atacames","MOTOS",2067,81
+"Y de Esmeraldas - Esmeraldas","MOTOS",2389,82
+"Y de Esmeraldas - San Mateo","MOTOS",2515,83
+"Entrada al Puerto De Esmeraldas","MOTOS",98,84
+"El Ojal - Lita","MOTOS",11,85
+"Naranjal - El Guabo","MOTOS",748,86
+"Balsar - Palestina","MOTOS",104,87
+"Playas - Data Posorja","MOTOS",420,88
+"Chilcales - Cumandá","MOTOS",112,89
+"Guayaquil - Gomez Rendon","MOTOS",1268,90
+"Guayaquil - Salitre","MOTOS",306,91
+"Durán - Boliche","MOTOS",435,92
+"Durán - Delia (Tambo)","MOTOS",955,93
+"Milagro - Naranjito","MOTOS",980,94
+"Daule - Santa Lucia","MOTOS",642,95
+"Daule - La Puntilla","MOTOS",74,96
+"Velasco Ibarra - Pichincha","MOTOS",763,97
+"Velasco Ibarra - Balzar","MOTOS",549,98
+"Quevedo - Velasco Ibarra","MOTOS",302,99
+"Entrada al Puerto de Guayaquil","MOTOS",0,100
+"Naranjal - Puerto Inca","MOTOS",568,101
+"Pedro Carbo - Jipijapa","MOTOS",89,102
+"El Empalme y Las Guayas","MOTOS",233,103
+"Salitre - Baba","MOTOS",239,104
+"Bucay - El Triunfo","MOTOS",484,105
+"Y de San Jacinto De Yaguachi - Babahoyo","MOTOS",397,106
+"Y de San Jacinto De Yaguachi - Durán","MOTOS",547,107
+"Y de San Jacinto De Yaguachi - Milagro","MOTOS",564,108
+"Y El Progreso - Guayaquil","MOTOS",232,109
+"Y El Progreso- Playas","MOTOS",192,110
+"Y El Progreso - Salinas","MOTOS",115,111
+"Y De Milaro - Durán","MOTOS",583,112
+"Redondel Km. 26 - Durán","MOTOS",2145,113
+"Redondel Km. 26 - Milagro","MOTOS",1115,114
+"Redondel Km. 26 - El Triunfo","MOTOS",1241,115
+"Redondel Km. 26 - El Mango","MOTOS",1405,116
+"Pascuales - La Sequilla","MOTOS",1613,117
+"Aeropuerto - Durán","MOTOS",5456,118
+"Nobol - Pascuales","MOTOS",0,119
+"Puerto Inca - Entronque Vía Molleturo Km. 2.4","MOTOS",0,120
+"Milagro - Boliche","MOTOS",0,121
+"Durán - Yaguachi","MOTOS",564,122
+"Naranjito - Antonio Elizalde","MOTOS",980,123
+"El Empalme - Balzar","MOTOS",756,124
+"Pichincha - El Rosario","MOTOS",644,125
+"Atuntaqui - Otavalo (San Roque)","MOTOS",281,126
+"Y De Salinas - Ambuqui","MOTOS",74,127
+"Y De Salinas - Salinas","MOTOS",73,128
+"Y De Salinas - Ibarra","MOTOS",56,129
+"Tulcán - Ibarra","MOTOS",88,130
+"Otavalo - Cajas","MOTOS",91,131
+"Tababuela - Bolívar (Ambuquí)","MOTOS",105,132
+"Y De Velacruz - Catacocha","MOTOS",5,133
+"Y De Velacruz - Chaguarpamba","MOTOS",4,134
+"Y De Velacruz - Catamayo","MOTOS",8,135
+"Saraguro - Loja","MOTOS",22,136
+"Loja - Zamora","MOTOS",49,137
+"Catamayo - Loja (Loja - Catamayo)","MOTOS",0,138
+"Balsas - Chaguarpamba","MOTOS",23,139
+"Oña - Saraguro","MOTOS",73,140
+"Vilcabamba - Loja","MOTOS",161,141
+"El Empalme - Macará","MOTOS",8,142
+"Ecuador - Perú","MOTOS",64,143
+"Quinara - Yangana","MOTOS",22,144
+"Ecuador - Perú","MOTOS",719,145
+"Y De Baba - Baba","MOTOS",855,146
+"Y De Baba - San Juan","MOTOS",1481,147
+"Y De Baba - Babahoyo","MOTOS",1708,148
+"Pueblo Viejo - Babahoyo","MOTOS",1663,149
+"Babahoyo - Jujan","MOTOS",1386,150
+"Guayaquil - Montalvo","MOTOS",2471,151
+"Vía Puebloviejo - Catarama","MOTOS",870,152
+"Quevedo - Ventanas","MOTOS",1128,153
+"Patricia Pilar - Buena Fe","MOTOS",1143,154
+"Buena Fe - Quevedo","MOTOS",1159,155
+"Quevedo - Valencia","MOTOS",1823,156
+"Quevedo - Ventanas","MOTOS",951,157
+"Quevedo - Velasco Ibarra","MOTOS",677,158
+"Valencia - La Maná","MOTOS",1585,159
+"Santo Domingo - Patricia Pilar","MOTOS",376,160
+"Vinces - Palestina","MOTOS",830,161
+"Montalvo - El Limón","MOTOS",666,162
+"Y de San Juan - Babahoyo","MOTOS",863,163
+"Y de San Juan - Vinces","MOTOS",749,164
+"Y de San Juan - Pueblo Viejo","MOTOS",1595,165
+"Manta - San Mateo","MOTOS",955,166
+"Rocafuerte - Portoviejo","MOTOS",1952,167
+"Portoviejo - El Rodeo","MOTOS",756,168
+"Crucita - Manta","MOTOS",533,169
+"Flavio Alfaro - Chone","MOTOS",1027,170
+"San Vicente - San Antonio","MOTOS",125,171
+"Sancán - Jipijapa","MOTOS",198,172
+"Galán - Jipijapa","MOTOS",1252,173
+"El Carmen - La Crespa","MOTOS",588,174
+"San Jacinto - San Clemente","MOTOS",841,175
+"Canuto - Calceta","MOTOS",344,176
+"San Antonio - Chone","MOTOS",678,177
+"Bahía - Tosagua","MOTOS",66,178
+"Jipijapa - América","MOTOS",304,179
+"Ingreso al Puerto de Manta","MOTOS",382,180
+"Montalvo - Caña Banchal","MOTOS",68,181
+"Rocafuerte - Río Chico","MOTOS",479,182
+"Tosagua - Rocafuerte","MOTOS",915,183
+"Bachillero - Tosagua","MOTOS",1215,184
+"Muisne - Pedernales","MOTOS",56,185
+"Pedernales - El Carmen","MOTOS",227,186
+"Y de Montecristi - Manta","MOTOS",912,187
+"Y de Montecristi - Jipijapa","MOTOS",330,188
+"Y de Montecristi - Portoviejo","MOTOS",761,189
+"Y de Río De Oro - Montecristi","MOTOS",718,190
+"Y de Río De Oro - La Pila","MOTOS",79,191
+"Y de Río De Oro - Portoviejo","MOTOS",776,192
+"Canoa - San Vicente","MOTOS",583,193
+"Rodeo - Calderón","MOTOS",1197,194
+"Jipijapa-américa","MOTOS",304,195
+"Ingreso al Puerto de Manta","MOTOS",382,196
+"Montalvo - Caña Banchal","MOTOS",68,197
+"Redondel de La Universidad - Centro de Manta","MOTOS",675,198
+"Redondel de La Universidad - Aeropuerto de Manta","MOTOS",196,199
+"Redondel de La Universidad - Montecristi","MOTOS",846,200
+"Redondel de La Universidad - San Mateo","MOTOS",253,201
+"Ayampe - Puerto Cayo","MOTOS",784,202
+"Y De Bella Union - Santiago de Mendez","MOTOS",239,203
+"Y De Bella Union - Logroño","MOTOS",224,204
+"Y De Bella Union - Patuca","MOTOS",200,205
+"Macas - Sucúa","MOTOS",270,206
+"Limón Indanza - El Progreso","MOTOS",43,207
+"Huamboya - Macas","MOTOS",439,208
+"Gualaquiza - El Pangui","MOTOS",203,209
+"Puyo - Macas","MOTOS",68,210
+"Y de Hollín- Sardinas","MOTOS",50,211
+"Y de Hollín- Loreto","MOTOS",63,212
+"Y de Hollín- Cosanga","MOTOS",62,213
+"Y de Baeza - Cuyuja","MOTOS",92,214
+"Y de Baeza -el Chaco","MOTOS",80,215
+"Y de Baeza - Cosanga","MOTOS",96,216
+"Archidona - Tena","MOTOS",155,217
+"Tena - Puyo","MOTOS",57,218
+"Papallacta - Pifo","MOTOS",16,219
+"La Joya de Los Sachas - Puerto Fco. de Orellana","MOTOS",568,220
+"Puerto Francisco de Orellana - Loreto","MOTOS",936,221
+"Joya de Los Achas - Nueva Loja","MOTOS",560,222
+"Tena - Puyo","MOTOS",64,223
+"Fátima - Puyo","MOTOS",230,224
+"Shell - Puyo","MOTOS",681,225
+"Puyo - Tarqui","MOTOS",947,226
+"Y de Palugo - Sangolquí","MOTOS",146,227
+"Y de Palugo - Pifo","MOTOS",218,228
+"Y de Palugo - Papallacta","MOTOS",101,229
+"Aloag - Tandapi (Aloag)","MOTOS",0,230
+"Otavalo - Tabacundo","MOTOS",33,231
+"Muisne - Pedernales","MOTOS",56,232
+"Pedernales - El Carmen","MOTOS",227,233
+"Y de Montecristi - Manta","MOTOS",912,234
+"Y de Montecristi - Jipijapa","MOTOS",330,235
+"Y de Montecristi - Portoviejo","MOTOS",761,236
+"Y de Río De Oro - Montecristi","MOTOS",718,237
+"Y de Río De Oro - La Pila","MOTOS",79,238
+"Y de Río De Oro - Portoviejo","MOTOS",776,239
+"Canoa - San Vicente","MOTOS",583,240
+"Rodeo - Calderón","MOTOS",1197,241
+"Jipijapa-américa","MOTOS",304,242
+"Ingreso al Puerto de Manta","MOTOS",382,243
+"Montalvo - Caña Banchal","MOTOS",68,244
+"Redondel de La Universidad - Centro de Manta","MOTOS",675,245
+"Redondel de La Universidad - Aeropuerto de Manta","MOTOS",196,246
+"Redondel de La Universidad - Montecristi","MOTOS",846,247
+"Redondel de La Universidad - San Mateo","MOTOS",253,248
+"Ayampe - Puerto Cayo","MOTOS",784,249
+"Y De Bella Union - Santiago de Mendez","MOTOS",239,250
+"Y De Bella Union - Logroño","MOTOS",224,251
+"Y De Bella Union - Patuca","MOTOS",200,252
+"Macas - Sucúa","MOTOS",270,253
+"Limón Indanza - El Progreso","MOTOS",43,254
+"Huamboya - Macas","MOTOS",203,255
+"Gualaquiza - El Pangui","MOTOS",439,256
+"Puyo - Macas","MOTOS",68,257
+"Y de Hollín- Sardinas","MOTOS",50,258
+"Y de Hollín- Loreto","MOTOS",63,259
+"Y de Hollín- Cosanga","MOTOS",62,260
+"Y de Baeza - Cuyuja","MOTOS",92,261
+"Y de Baeza -el Chaco","MOTOS",80,262
+"Y de Baeza - Cosanga","MOTOS",96,263
+"Archidona - Tena","MOTOS",155,264
+"Tena - Puyo","MOTOS",57,265
+"Papallacta - Pifo","MOTOS",16,266
+"La Joya de Los Sachas - Puerto Fco. de Orellana","MOTOS",568,267
+"Puerto Francisco de Orellana - Loreto","MOTOS",560,268
+"Joya de Los Achas - Nueva Loja","MOTOS",936,269
+"Tena - Puyo","MOTOS",64,270
+"Fátima - Puyo","MOTOS",230,271
+"Shell - Puyo","MOTOS",681,272
+"Puyo - Tarqui","MOTOS",947,273
+"Y de Palugo - Sangolquí","MOTOS",146,274
+"Y de Palugo - Pifo","MOTOS",218,275
+"Y de Palugo - Papallacta","MOTOS",101,276
+"Aloag - Tandapi (Aloag)","MOTOS",0,277
+"Otavalo - Tabacundo","MOTOS",33,278
+"Guayllabamba - Calderón","MOTOS",266,279
+"Quito - Cumbayá (Túnel Guayasamín)","MOTOS",301,280
+"Sangolqui - Y de Pintag","MOTOS",0,281
+"Cayambe - Tabacundo","MOTOS",298,282
+"El Cajas - Cayambe","MOTOS",212,283
+"Cayambe - Otón","MOTOS",96,284
+"Tambillo - Aloag","MOTOS",115,285
+"Y de Pifo - Tumbaco","MOTOS",101,286
+"Y de Pifo - Quinche","MOTOS",786,287
+"Y de Pifo - Papallacta","MOTOS",549,288
+"Sta. Rosa de Cuzubamba - Guayllabamba","MOTOS",323,289
+"Sta. Rosa de Cuzubamba - El Quinche","MOTOS",158,290
+"Sta. Rosa de Cuzubamba - Guayllabamba","MOTOS",182,291
+"Machachi - Lasso","MOTOS",209,292
+"Aloag - Machachi","MOTOS",107,293
+"Y De Danec - Amaguaña","MOTOS",183,294
+"Y De Danec - Sangolquí","MOTOS",596,295
+"Y De Danec - Selva Elegre","MOTOS",324,296
+"Redondel de Guaylabamba - Tabacundo","MOTOS",272,297
+"Redondel de Guaylabamba - Sta. Rosa de Cusubamba","MOTOS",190,298
+"Redondel de Guaylabamba - Calderón","MOTOS",116,299
+"San Miguel de Los Bancos - Cristobal Colón","MOTOS",225,300
+"La Unión - San Antonio","MOTOS",35,301
+"Y De Santa Elena - San Pablo","MOTOS",309,302
+"Y De Santa Elena - Ballenita","MOTOS",588,303
+"Y De Santa Elena - Santa Elena","MOTOS",719,304
+"Santa Elena - Salinas","MOTOS",764,305
+"Monteverde - Manglaralto","MOTOS",949,306
+"Salinas - La Libertad","MOTOS",307,307
+"“Y” de Playas - Sta Elena","MOTOS",3882,308
+"Santo Domingo A Esmeraldas","MOTOS",19,309
+"Santo Domingo - Tandapi (Sto. Domingo)","MOTOS",600,310
+"Santo Domingo a El Carmen","MOTOS",0,311
+"Santo Domingo Via Quevedo","MOTOS",899,312
+"De Sto. Domingo a 10 De Agosto - Los Bancos","MOTOS",1608,313
+"Sansahuari - La “Y” de Cuyabeno","MOTOS",438,314
+"Dureno - Nueva Loja","MOTOS",502,315
+"Nueva Loja - Lumbaqui","MOTOS",532,316
+"Colombia - Ecuador","MOTOS",1088,317
+"El Playón de San Francisco - Sta. Barbara","MOTOS",116,318
+"Cabeno - Lumbaqui","MOTOS",212,319
+"Redondel Ambato - Pelileo","MOTOS",89,320
+"Redondel Ambato - Picaihua","MOTOS",186,321
+"Redondel Ambato - Riobamba","MOTOS",39,322
+"Redondel Ambato - Centro de Ambato","MOTOS",81,323
+"Ambato - Sta. Rosa","MOTOS",249,324
+"Ambato - Mocha","MOTOS",97,325
+"Salcedo - Ambato","MOTOS",79,326
+"Mocha - Riobamba","MOTOS",54,327
+"Ambato - Pelileo","MOTOS",99,328
+"Baños - Ulba","MOTOS",230,329
+"Penipe - Pelileo","MOTOS",6,330
+"Garcia Moreno - Baños","MOTOS",83,331
+"Yantzaza - Zamora","MOTOS",164,332
+"Ecuador - Perú","MOTOS",64,333
+"Cuenca - Nulti","LIVIANOS",3747,334
+"El Cajas - Cuenca","LIVIANOS",8752,335
+"Cuenca - Loja","LIVIANOS",1363,336
+"Paute - Gualaceo","LIVIANOS",13695,337
+"Paute - Santiago De Méndez","LIVIANOS",2379,338
+"Santa Isabel - Pasaje","LIVIANOS",3383,339
+"Sigsig - Gualaquiza","LIVIANOS",3197,340
+"Cuenca - Puerto Inca","LIVIANOS",2701,341
+"Nulti - Gualaceo (Chordeleg - Gualaceo)","LIVIANOS",9367,342
+"Y El Cabo - Cuenca","LIVIANOS",9903,343
+"Y El Cabo - Paute","LIVIANOS",4789,344
+"Y El Cabo - Gualaceo","LIVIANOS",6417,345
+"Y De Cuenca - Cuenca","LIVIANOS",8298,346
+"Y De Cuenca- Loja","LIVIANOS",3795,347
+"Y De Cuenca - Pasaje","LIVIANOS",5079,348
+"Guanujo - Guaranda","LIVIANOS",14191,349
+"Guaranda - Santa Fe","LIVIANOS",661,350
+"Guaranda - Cashisagua","LIVIANOS",504,351
+"Ambato - Guaranda","LIVIANOS",3169,352
+"Cañar - Biblian","LIVIANOS",5995,353
+"Biblian - Azogues","LIVIANOS",3203,354
+"Zhud - La Troncal","LIVIANOS",1551,355
+"La Troncal - Cochancay","LIVIANOS",5628,356
+"Biblian - Azogues","LIVIANOS",87,357
+"El Tambo - Cañar","LIVIANOS",5737,358
+"Azogues - Cuenca","LIVIANOS",14179,359
+"La Troncal - Puerto Inca","LIVIANOS",2107,360
+"Y De Suscal - Suscal","LIVIANOS",1235,361
+"Y De Suscal - El Tambo","LIVIANOS",2352,362
+"Y De Suscal - Chunchi","LIVIANOS",1402,363
+"Julio Andrade - Huaca","LIVIANOS",9205,364
+"El Ángel - Mira","LIVIANOS",1645,365
+"Tulcán - Julio Andrade","LIVIANOS",4178,366
+"Tufiño - Tulcán","LIVIANOS",2135,367
+"El Ángel - Bolívar","LIVIANOS",1445,368
+"Tlcán- Ipiales","LIVIANOS",15934,369
+"Penipe - Riobamba","LIVIANOS",4187,370
+"Ambato - Riobamba","LIVIANOS",1337,371
+"Riobamba - Villa Unión","LIVIANOS",9135,372
+"Colay - Atillo","LIVIANOS",177,373
+"Guamote - Alausí","LIVIANOS",2235,374
+"Riobamba - Pallatanga","LIVIANOS",2341,375
+"Alausí - El Triunfo","LIVIANOS",394,376
+"Latacunga - La Maná","LIVIANOS",10651,377
+"Lasso - Latacunga","LIVIANOS",30219,378
+"Latacunga - Salcedo","LIVIANOS",29085,379
+"La Maná - Puembo","LIVIANOS",2675,380
+"Salcedo - Ambato (Panzaleo)","LIVIANOS",19191,381
+"Y de Bellavista - Santa Rosa","LIVIANOS",10719,382
+"Y de Bellavista - Arenillas","LIVIANOS",8666,383
+"Y de Bellavista - La Avanzada","LIVIANOS",2407,384
+"Entrada al Puerto - Machala","LIVIANOS",23804,385
+"Santa Isabel - Pasaje","LIVIANOS",3168,386
+"Machala - Santa Rosa","LIVIANOS",16867,387
+"Arenillas - Piñas","LIVIANOS",3444,388
+"Arenillas - Alamor","LIVIANOS",1131,389
+"Huaquillas - Aguas Verdes","LIVIANOS",337,390
+"Y de Pasaje - Machala","LIVIANOS",1968,391
+"Y de Pasaje - Pasaje","LIVIANOS",10374,392
+"Y de Pasaje - Santa Rosa","LIVIANOS",10057,393
+"Y de La Victoria - La María","LIVIANOS",3039,394
+"Y de La Victoria - Paccha","LIVIANOS",1019,395
+"Y de La Victoria - Pasaje","LIVIANOS",3485,396
+"El Cambio - Machala","LIVIANOS",19744,397
+"El Cambio - El Guabo","LIVIANOS",8036,398
+"El Cambio - Pasaje","LIVIANOS",16416,399
+"La María - Machala","LIVIANOS",8579,400
+"La María - La Victoria","LIVIANOS",3366,401
+"La María - Santa Rosa","LIVIANOS",9979,402
+"Y de San Lorenzo - Borbón","LIVIANOS",979,403
+"Y de San Lorenzo - San Lorenzo","LIVIANOS",1458,404
+"Y de San Lorenzo - Calderón","LIVIANOS",1205,405
+"Redondel Central - Puerto Artesanal","LIVIANOS",1262,406
+"Atacames - Muisne","LIVIANOS",998,407
+"Puerto Quito - La Indepedencia","LIVIANOS",3683,408
+"Rosa Zarate - Santo Domingo","LIVIANOS",8942,409
+"Colombia - Ecuador","LIVIANOS",429,410
+"San Mateo - Esmeraldas","LIVIANOS",3256,411
+"San Mateo - Tachina","LIVIANOS",1372,412
+"San Mateo - Viche","LIVIANOS",3222,413
+"Y de Esmeraldas - Atacames","LIVIANOS",22999,414
+"Y de Esmeraldas - Esmeraldas","LIVIANOS",25599,415
+"Y de Esmeraldas - San Mateo","LIVIANOS",27963,416
+"Entrada al Puerto De Esmeraldas","LIVIANOS",261,417
+"El Ojal - Lita","LIVIANOS",404,418
+"Naranjal - El Guabo","LIVIANOS",8036,419
+"Balsar - Palestina","LIVIANOS",339,420
+"Playas - Data Posorja","LIVIANOS",5707,421
+"Chilcales - Cumandá","LIVIANOS",3426,422
+"Guayaquil - Gomez Rendon","LIVIANOS",81142,423
+"Guayaquil - Salitre","LIVIANOS",4918,424
+"Durán - Boliche","LIVIANOS",20515,425
+"Durán - Delia (Tambo)","LIVIANOS",2038,426
+"Milagro - Naranjito","LIVIANOS",9181,427
+"Daule - Santa Lucia","LIVIANOS",9806,428
+"Daule - La Puntilla","LIVIANOS",3822,429
+"Velasco Ibarra - Pichincha","LIVIANOS",3754,430
+"Velasco Ibarra - Balzar","LIVIANOS",4055,431
+"Quevedo - Velasco Ibarra","LIVIANOS",4466,432
+"Entrada al Puerto de Guayaquil","LIVIANOS",18,433
+"Naranjal - Puerto Inca","LIVIANOS",10649,434
+"Pedro Carbo - Jipijapa","LIVIANOS",5346,435
+"El Empalme y Las Guayas","LIVIANOS",1144,436
+"Salitre - Baba","LIVIANOS",1144,437
+"Bucay - El Triunfo","LIVIANOS",5781,438
+"Y de San Jacinto De Yaguachi - Babahoyo","LIVIANOS",9421,439
+"Y de San Jacinto De Yaguachi - Durán","LIVIANOS",10622,440
+"Y de San Jacinto De Yaguachi - Milagro","LIVIANOS",5252,441
+"Y El Progreso - Guayaquil","LIVIANOS",3259,442
+"Y El Progreso- Playas","LIVIANOS",3182,443
+"Y El Progreso - Salinas","LIVIANOS",559,444
+"Y De Milaro - Durán","LIVIANOS",15457,445
+"Redondel Km. 26 - Durán","LIVIANOS",2244,446
+"Redondel Km. 26 - Milagro","LIVIANOS",672,447
+"Redondel Km. 26 - El Triunfo","LIVIANOS",2267,448
+"Redondel Km. 26 - El Mango","LIVIANOS",3948,449
+"Pascuales - La Sequilla","LIVIANOS",57041,450
+"Aeropuerto - Durán","LIVIANOS",111606,451
+"Nobol - Pascuales","LIVIANOS",2545,452
+"Puerto Inca - Entronque Vía Molleturo Km. 2.4","LIVIANOS",436,453
+"Milagro - Boliche","LIVIANOS",4426,454
+"Durán - Yaguachi","LIVIANOS",5252,455
+"Naranjito - Antonio Elizalde","LIVIANOS",9181,456
+"El Empalme - Balzar","LIVIANOS",7534,457
+"Pichincha - El Rosario","LIVIANOS",1579,458
+"Atuntaqui - Otavalo (San Roque)","LIVIANOS",16192,459
+"Y De Salinas - Ambuqui","LIVIANOS",5284,460
+"Y De Salinas - Salinas","LIVIANOS",268,461
+"Y De Salinas - Ibarra","LIVIANOS",7137,462
+"Tulcán - Ibarra","LIVIANOS",4917,463
+"Otavalo - Cajas","LIVIANOS",17666,464
+"Tababuela - Bolívar (Ambuquí)","LIVIANOS",4589,465
+"Y De Velacruz - Catacocha","LIVIANOS",1054,466
+"Y De Velacruz - Chaguarpamba","LIVIANOS",838,467
+"Y De Velacruz - Catamayo","LIVIANOS",1555,468
+"Saraguro - Loja","LIVIANOS",233,469
+"Loja - Zamora","LIVIANOS",4393,470
+"Catamayo - Loja (Loja - Catamayo)","LIVIANOS",5041,471
+"Balsas - Chaguarpamba","LIVIANOS",1041,472
+"Oña - Saraguro","LIVIANOS",1577,473
+"Vilcabamba - Loja","LIVIANOS",3245,474
+"El Empalme - Macará","LIVIANOS",855,475
+"Ecuador - Perú","LIVIANOS",6121,476
+"Quinara - Yangana","LIVIANOS",277,477
+"Ecuador - Perú","LIVIANOS",3993,478
+"Y De Baba - Baba","LIVIANOS",2865,479
+"Y De Baba - San Juan","LIVIANOS",9681,480
+"Y De Baba - Babahoyo","LIVIANOS",10418,481
+"Pueblo Viejo - Babahoyo","LIVIANOS",13741,482
+"Babahoyo - Jujan","LIVIANOS",13566,483
+"Guayaquil - Montalvo","LIVIANOS",9088,484
+"Vía Puebloviejo - Catarama","LIVIANOS",2346,485
+"Quevedo - Ventanas","LIVIANOS",9717,486
+"Patricia Pilar - Buena Fe","LIVIANOS",12035,487
+"Buena Fe - Quevedo","LIVIANOS",15834,488
+"Quevedo - Valencia","LIVIANOS",12013,489
+"Quevedo - Ventanas","LIVIANOS",10208,490
+"Quevedo - Velasco Ibarra","LIVIANOS",6352,491
+"Valencia - La Maná","LIVIANOS",442,492
+"Santo Domingo - Patricia Pilar","LIVIANOS",7588,493
+"Vinces - Palestina","LIVIANOS",334,494
+"Montalvo - El Limón","LIVIANOS",1951,495
+"Y de San Juan - Babahoyo","LIVIANOS",6955,496
+"Y de San Juan - Vinces","LIVIANOS",868,497
+"Y de San Juan - Pueblo Viejo","LIVIANOS",7797,498
+"Manta - San Mateo","LIVIANOS",16435,499
+"Rocafuerte - Portoviejo","LIVIANOS",22421,500
+"Portoviejo - El Rodeo","LIVIANOS",7534,501
+"Crucita - Manta","LIVIANOS",16008,502
+"Flavio Alfaro - Chone","LIVIANOS",8879,503
+"San Vicente - San Antonio","LIVIANOS",797,504
+"Sancán - Jipijapa","LIVIANOS",4457,505
+"Galán - Jipijapa","LIVIANOS",4361,506
+"El Carmen - La Crespa","LIVIANOS",5266,507
+"San Jacinto - San Clemente","LIVIANOS",6152,508
+"Canuto - Calceta","LIVIANOS",2062,509
+"San Antonio - Chone","LIVIANOS",6934,510
+"Bahía - Tosagua","LIVIANOS",11,511
+"Jipijapa - América","LIVIANOS",4664,512
+"Ingreso al Puerto de Manta","LIVIANOS",2536,513
+"Montalvo - Caña Banchal","LIVIANOS",3862,514
+"Rocafuerte - Río Chico","LIVIANOS",2232,515
+"Tosagua - Rocafuerte","LIVIANOS",13326,516
+"Bachillero - Tosagua","LIVIANOS",7663,517
+"Muisne - Pedernales","LIVIANOS",758,518
+"Pedernales - El Carmen","LIVIANOS",1966,519
+"Y de Montecristi - Manta","LIVIANOS",14057,520
+"Y de Montecristi - Jipijapa","LIVIANOS",581,521
+"Y de Montecristi - Portoviejo","LIVIANOS",10684,522
+"Y de Río De Oro - Montecristi","LIVIANOS",899,523
+"Y de Río De Oro - La Pila","LIVIANOS",2471,524
+"Y de Río De Oro - Portoviejo","LIVIANOS",11338,525
+"Canoa - San Vicente","LIVIANOS",3895,526
+"Rodeo - Calderón","LIVIANOS",7103,527
+"Jipijapa-américa","LIVIANOS",4664,528
+"Ingreso al Puerto de Manta","LIVIANOS",2536,529
+"Montalvo - Caña Banchal","LIVIANOS",3862,530
+"Redondel de La Universidad - Centro de Manta","LIVIANOS",6736,531
+"Redondel de La Universidad - Aeropuerto de Manta","LIVIANOS",3595,532
+"Redondel de La Universidad - Montecristi","LIVIANOS",11534,533
+"Redondel de La Universidad - San Mateo","LIVIANOS",3146,534
+"Ayampe - Puerto Cayo","LIVIANOS",196,535
+"Y De Bella Union - Santiago de Mendez","LIVIANOS",1636,536
+"Y De Bella Union - Logroño","LIVIANOS",1469,537
+"Y De Bella Union - Patuca","LIVIANOS",888,538
+"Macas - Sucúa","LIVIANOS",3339,539
+"Limón Indanza - El Progreso","LIVIANOS",592,540
+"Huamboya - Macas","LIVIANOS",3355,541
+"Gualaquiza - El Pangui","LIVIANOS",2739,542
+"Puyo - Macas","LIVIANOS",775,543
+"Y de Hollín- Sardinas","LIVIANOS",1013,544
+"Y de Hollín- Loreto","LIVIANOS",803,545
+"Y de Hollín- Cosanga","LIVIANOS",848,546
+"Y de Baeza - Cuyuja","LIVIANOS",2529,547
+"Y de Baeza -el Chaco","LIVIANOS",204,548
+"Y de Baeza - Cosanga","LIVIANOS",2234,549
+"Archidona - Tena","LIVIANOS",3928,550
+"Tena - Puyo","LIVIANOS",188,551
+"Papallacta - Pifo","LIVIANOS",2949,552
+"La Joya de Los Sachas - Puerto Fco. de Orellana","LIVIANOS",2937,553
+"Puerto Francisco de Orellana - Loreto","LIVIANOS",3388,554
+"Joya de Los Achas - Nueva Loja","LIVIANOS",1647,555
+"Tena - Puyo","LIVIANOS",1043,556
+"Fátima - Puyo","LIVIANOS",2469,557
+"Shell - Puyo","LIVIANOS",9306,558
+"Puyo - Tarqui","LIVIANOS",6345,559
+"Y de Palugo - Sangolquí","LIVIANOS",5696,560
+"Y de Palugo - Pifo","LIVIANOS",8883,561
+"Y de Palugo - Papallacta","LIVIANOS",4611,562
+"Aloag - Tandapi (Aloag)","LIVIANOS",4901,563
+"Otavalo - Tabacundo","LIVIANOS",7233,564
+"Muisne - Pedernales","LIVIANOS",758,565
+"Pedernales - El Carmen","LIVIANOS",1966,566
+"Y de Montecristi - Manta","LIVIANOS",14057,567
+"Y de Montecristi - Jipijapa","LIVIANOS",581,568
+"Y de Montecristi - Portoviejo","LIVIANOS",10684,569
+"Y de Río De Oro - Montecristi","LIVIANOS",899,570
+"Y de Río De Oro - La Pila","LIVIANOS",2471,571
+"Y de Río De Oro - Portoviejo","LIVIANOS",11338,572
+"Canoa - San Vicente","LIVIANOS",3895,573
+"Rodeo - Calderón","LIVIANOS",7103,574
+"Jipijapa-américa","LIVIANOS",4664,575
+"Ingreso al Puerto de Manta","LIVIANOS",2536,576
+"Montalvo - Caña Banchal","LIVIANOS",3862,577
+"Redondel de La Universidad - Centro de Manta","LIVIANOS",6736,578
+"Redondel de La Universidad - Aeropuerto de Manta","LIVIANOS",3595,579
+"Redondel de La Universidad - Montecristi","LIVIANOS",11534,580
+"Redondel de La Universidad - San Mateo","LIVIANOS",3146,581
+"Ayampe - Puerto Cayo","LIVIANOS",196,582
+"Y De Bella Union - Santiago de Mendez","LIVIANOS",1636,583
+"Y De Bella Union - Logroño","LIVIANOS",1469,584
+"Y De Bella Union - Patuca","LIVIANOS",888,585
+"Macas - Sucúa","LIVIANOS",3339,586
+"Limón Indanza - El Progreso","LIVIANOS",592,587
+"Huamboya - Macas","LIVIANOS",2739,588
+"Gualaquiza - El Pangui","LIVIANOS",3355,589
+"Puyo - Macas","LIVIANOS",775,590
+"Y de Hollín- Sardinas","LIVIANOS",1013,591
+"Y de Hollín- Loreto","LIVIANOS",803,592
+"Y de Hollín- Cosanga","LIVIANOS",848,593
+"Y de Baeza - Cuyuja","LIVIANOS",2529,594
+"Y de Baeza -el Chaco","LIVIANOS",204,595
+"Y de Baeza - Cosanga","LIVIANOS",2234,596
+"Archidona - Tena","LIVIANOS",3928,597
+"Tena - Puyo","LIVIANOS",188,598
+"Papallacta - Pifo","LIVIANOS",2949,599
+"La Joya de Los Sachas - Puerto Fco. de Orellana","LIVIANOS",2937,600
+"Puerto Francisco de Orellana - Loreto","LIVIANOS",1647,601
+"Joya de Los Achas - Nueva Loja","LIVIANOS",3388,602
+"Tena - Puyo","LIVIANOS",1043,603
+"Fátima - Puyo","LIVIANOS",2469,604
+"Shell - Puyo","LIVIANOS",9306,605
+"Puyo - Tarqui","LIVIANOS",6345,606
+"Y de Palugo - Sangolquí","LIVIANOS",5696,607
+"Y de Palugo - Pifo","LIVIANOS",8883,608
+"Y de Palugo - Papallacta","LIVIANOS",4611,609
+"Aloag - Tandapi (Aloag)","LIVIANOS",4901,610
+"Otavalo - Tabacundo","LIVIANOS",7233,611
+"Guayllabamba - Calderón","LIVIANOS",11935,612
+"Quito - Cumbayá (Túnel Guayasamín)","LIVIANOS",16585,613
+"Sangolqui - Y de Pintag","LIVIANOS",38634,614
+"Cayambe - Tabacundo","LIVIANOS",22749,615
+"El Cajas - Cayambe","LIVIANOS",8624,616
+"Cayambe - Otón","LIVIANOS",5742,617
+"Tambillo - Aloag","LIVIANOS",6764,618
+"Y de Pifo - Tumbaco","LIVIANOS",12823,619
+"Y de Pifo - Quinche","LIVIANOS",17928,620
+"Y de Pifo - Papallacta","LIVIANOS",13049,621
+"Sta. Rosa de Cuzubamba - Guayllabamba","LIVIANOS",9332,622
+"Sta. Rosa de Cuzubamba - El Quinche","LIVIANOS",594,623
+"Sta. Rosa de Cuzubamba - Guayllabamba","LIVIANOS",626,624
+"Machachi - Lasso","LIVIANOS",614,625
+"Aloag - Machachi","LIVIANOS",19095,626
+"Y De Danec - Amaguaña","LIVIANOS",27557,627
+"Y De Danec - Sangolquí","LIVIANOS",21327,628
+"Y De Danec - Selva Elegre","LIVIANOS",10564,629
+"Redondel de Guaylabamba - Tabacundo","LIVIANOS",10764,630
+"Redondel de Guaylabamba - Sta. Rosa de Cusubamba","LIVIANOS",8339,631
+"Redondel de Guaylabamba - Calderón","LIVIANOS",5156,632
+"San Miguel de Los Bancos - Cristobal Colón","LIVIANOS",13208,633
+"La Unión - San Antonio","LIVIANOS",261,634
+"Y De Santa Elena - San Pablo","LIVIANOS",4893,635
+"Y De Santa Elena - Ballenita","LIVIANOS",5382,636
+"Y De Santa Elena - Santa Elena","LIVIANOS",6676,637
+"Santa Elena - Salinas","LIVIANOS",6781,638
+"Monteverde - Manglaralto","LIVIANOS",29854,639
+"Salinas - La Libertad","LIVIANOS",4924,640
+"“Y” de Playas - Sta Elena","LIVIANOS",33381,641
+"Santo Domingo A Esmeraldas","LIVIANOS",9662,642
+"Santo Domingo - Tandapi (Sto. Domingo)","LIVIANOS",10289,643
+"Santo Domingo a El Carmen","LIVIANOS",5405,644
+"Santo Domingo Via Quevedo","LIVIANOS",11491,645
+"De Sto. Domingo a 10 De Agosto - Los Bancos","LIVIANOS",10272,646
+"Sansahuari - La “Y” de Cuyabeno","LIVIANOS",4262,647
+"Dureno - Nueva Loja","LIVIANOS",389,648
+"Nueva Loja - Lumbaqui","LIVIANOS",2753,649
+"Colombia - Ecuador","LIVIANOS",284,650
+"El Playón de San Francisco - Sta. Barbara","LIVIANOS",367,651
+"Cabeno - Lumbaqui","LIVIANOS",143,652
+"Redondel Ambato - Pelileo","LIVIANOS",94,653
+"Redondel Ambato - Picaihua","LIVIANOS",14574,654
+"Redondel Ambato - Riobamba","LIVIANOS",2095,655
+"Redondel Ambato - Centro de Ambato","LIVIANOS",7692,656
+"Ambato - Sta. Rosa","LIVIANOS",19593,657
+"Ambato - Mocha","LIVIANOS",17002,658
+"Salcedo - Ambato","LIVIANOS",23768,659
+"Mocha - Riobamba","LIVIANOS",1071,660
+"Ambato - Pelileo","LIVIANOS",16459,661
+"Baños - Ulba","LIVIANOS",4857,662
+"Penipe - Pelileo","LIVIANOS",342,663
+"Garcia Moreno - Baños","LIVIANOS",11079,664
+"Yantzaza - Zamora","LIVIANOS",514,665
+"Ecuador - Perú","LIVIANOS",17,666
+"Cuenca - Nulti","PESADO DE 2 EJES",108,667
+"El Cajas - Cuenca","PESADO DE 2 EJES",851,668
+"Cuenca - Loja","PESADO DE 2 EJES",1162,669
+"Paute - Gualaceo","PESADO DE 2 EJES",790,670
+"Paute - Santiago De Méndez","PESADO DE 2 EJES",134,671
+"Santa Isabel - Pasaje","PESADO DE 2 EJES",279,672
+"Sigsig - Gualaquiza","PESADO DE 2 EJES",94,673
+"Cuenca - Puerto Inca","PESADO DE 2 EJES",305,674
+"Nulti - Gualaceo (Chordeleg - Gualaceo)","PESADO DE 2 EJES",1487,675
+"Y El Cabo - Cuenca","PESADO DE 2 EJES",1963,676
+"Y El Cabo - Paute","PESADO DE 2 EJES",1344,677
+"Y El Cabo - Gualaceo","PESADO DE 2 EJES",1305,678
+"Y De Cuenca - Cuenca","PESADO DE 2 EJES",2038,679
+"Y De Cuenca- Loja","PESADO DE 2 EJES",953,680
+"Y De Cuenca - Pasaje","PESADO DE 2 EJES",1291,681
+"Guanujo - Guaranda","PESADO DE 2 EJES",1837,682
+"Guaranda - Santa Fe","PESADO DE 2 EJES",1415,683
+"Guaranda - Cashisagua","PESADO DE 2 EJES",242,684
+"Ambato - Guaranda","PESADO DE 2 EJES",437,685
+"Cañar - Biblian","PESADO DE 2 EJES",631,686
+"Biblian - Azogues","PESADO DE 2 EJES",209,687
+"Zhud - La Troncal","PESADO DE 2 EJES",225,688
+"La Troncal - Cochancay","PESADO DE 2 EJES",425,689
+"Biblian - Azogues","PESADO DE 2 EJES",666,690
+"El Tambo - Cañar","PESADO DE 2 EJES",953,691
+"Azogues - Cuenca","PESADO DE 2 EJES",964,692
+"La Troncal - Puerto Inca","PESADO DE 2 EJES",304,693
+"Y De Suscal - Suscal","PESADO DE 2 EJES",566,694
+"Y De Suscal - El Tambo","PESADO DE 2 EJES",1275,695
+"Y De Suscal - Chunchi","PESADO DE 2 EJES",806,696
+"Julio Andrade - Huaca","PESADO DE 2 EJES",914,697
+"El Ángel - Mira","PESADO DE 2 EJES",128,698
+"Tulcán - Julio Andrade","PESADO DE 2 EJES",1139,699
+"Tufiño - Tulcán","PESADO DE 2 EJES",108,700
+"El Ángel - Bolívar","PESADO DE 2 EJES",49,701
+"Tlcán- Ipiales","PESADO DE 2 EJES",853,702
+"Penipe - Riobamba","PESADO DE 2 EJES",287,703
+"Ambato - Riobamba","PESADO DE 2 EJES",1104,704
+"Riobamba - Villa Unión","PESADO DE 2 EJES",1802,705
+"Colay - Atillo","PESADO DE 2 EJES",98,706
+"Guamote - Alausí","PESADO DE 2 EJES",633,707
+"Riobamba - Pallatanga","PESADO DE 2 EJES",775,708
+"Alausí - El Triunfo","PESADO DE 2 EJES",24,709
+"Latacunga - La Maná","PESADO DE 2 EJES",653,710
+"Lasso - Latacunga","PESADO DE 2 EJES",3247,711
+"Latacunga - Salcedo","PESADO DE 2 EJES",2587,712
+"La Maná - Puembo","PESADO DE 2 EJES",643,713
+"Salcedo - Ambato (Panzaleo)","PESADO DE 2 EJES",4472,714
+"Y de Bellavista - Santa Rosa","PESADO DE 2 EJES",2909,715
+"Y de Bellavista - Arenillas","PESADO DE 2 EJES",2163,716
+"Y de Bellavista - La Avanzada","PESADO DE 2 EJES",947,717
+"Entrada al Puerto - Machala","PESADO DE 2 EJES",3149,718
+"Santa Isabel - Pasaje","PESADO DE 2 EJES",362,719
+"Machala - Santa Rosa","PESADO DE 2 EJES",1586,720
+"Arenillas - Piñas","PESADO DE 2 EJES",224,721
+"Arenillas - Alamor","PESADO DE 2 EJES",95,722
+"Huaquillas - Aguas Verdes","PESADO DE 2 EJES",59,723
+"Y de Pasaje - Machala","PESADO DE 2 EJES",5445,724
+"Y de Pasaje - Pasaje","PESADO DE 2 EJES",2408,725
+"Y de Pasaje - Santa Rosa","PESADO DE 2 EJES",3243,726
+"Y de La Victoria - La María","PESADO DE 2 EJES",1079,727
+"Y de La Victoria - Paccha","PESADO DE 2 EJES",290,728
+"Y de La Victoria - Pasaje","PESADO DE 2 EJES",1103,729
+"El Cambio - Machala","PESADO DE 2 EJES",6836,730
+"El Cambio - El Guabo","PESADO DE 2 EJES",4771,731
+"El Cambio - Pasaje","PESADO DE 2 EJES",5057,732
+"La María - Machala","PESADO DE 2 EJES",936,733
+"La María - La Victoria","PESADO DE 2 EJES",711,734
+"La María - Santa Rosa","PESADO DE 2 EJES",1419,735
+"Y de San Lorenzo - Borbón","PESADO DE 2 EJES",477,736
+"Y de San Lorenzo - San Lorenzo","PESADO DE 2 EJES",710,737
+"Y de San Lorenzo - Calderón","PESADO DE 2 EJES",527,738
+"Redondel Central - Puerto Artesanal","PESADO DE 2 EJES",378,739
+"Atacames - Muisne","PESADO DE 2 EJES",250,740
+"Puerto Quito - La Indepedencia","PESADO DE 2 EJES",305,741
+"Rosa Zarate - Santo Domingo","PESADO DE 2 EJES",1172,742
+"Colombia - Ecuador","PESADO DE 2 EJES",170,743
+"San Mateo - Esmeraldas","PESADO DE 2 EJES",1517,744
+"San Mateo - Tachina","PESADO DE 2 EJES",605,745
+"San Mateo - Viche","PESADO DE 2 EJES",1645,746
+"Y de Esmeraldas - Atacames","PESADO DE 2 EJES",283,747
+"Y de Esmeraldas - Esmeraldas","PESADO DE 2 EJES",2858,748
+"Y de Esmeraldas - San Mateo","PESADO DE 2 EJES",323,749
+"Entrada al Puerto De Esmeraldas","PESADO DE 2 EJES",20,750
+"El Ojal - Lita","PESADO DE 2 EJES",162,751
+"Naranjal - El Guabo","PESADO DE 2 EJES",4771,752
+"Balsar - Palestina","PESADO DE 2 EJES",1353,753
+"Playas - Data Posorja","PESADO DE 2 EJES",491,754
+"Chilcales - Cumandá","PESADO DE 2 EJES",1114,755
+"Guayaquil - Gomez Rendon","PESADO DE 2 EJES",2351,756
+"Guayaquil - Salitre","PESADO DE 2 EJES",453,757
+"Durán - Boliche","PESADO DE 2 EJES",1622,758
+"Durán - Delia (Tambo)","PESADO DE 2 EJES",2648,759
+"Milagro - Naranjito","PESADO DE 2 EJES",1613,760
+"Daule - Santa Lucia","PESADO DE 2 EJES",2277,761
+"Daule - La Puntilla","PESADO DE 2 EJES",391,762
+"Velasco Ibarra - Pichincha","PESADO DE 2 EJES",422,763
+"Velasco Ibarra - Balzar","PESADO DE 2 EJES",1081,764
+"Quevedo - Velasco Ibarra","PESADO DE 2 EJES",700,765
+"Entrada al Puerto de Guayaquil","PESADO DE 2 EJES",274,766
+"Naranjal - Puerto Inca","PESADO DE 2 EJES",2066,767
+"Pedro Carbo - Jipijapa","PESADO DE 2 EJES",1174,768
+"El Empalme y Las Guayas","PESADO DE 2 EJES",165,769
+"Salitre - Baba","PESADO DE 2 EJES",190,770
+"Bucay - El Triunfo","PESADO DE 2 EJES",1027,771
+"Y de San Jacinto De Yaguachi - Babahoyo","PESADO DE 2 EJES",4603,772
+"Y de San Jacinto De Yaguachi - Durán","PESADO DE 2 EJES",5038,773
+"Y de San Jacinto De Yaguachi - Milagro","PESADO DE 2 EJES",2964,774
+"Y El Progreso - Guayaquil","PESADO DE 2 EJES",818,775
+"Y El Progreso- Playas","PESADO DE 2 EJES",778,776
+"Y El Progreso - Salinas","PESADO DE 2 EJES",88,777
+"Y De Milaro - Durán","PESADO DE 2 EJES",1736,778
+"Redondel Km. 26 - Durán","PESADO DE 2 EJES",891,779
+"Redondel Km. 26 - Milagro","PESADO DE 2 EJES",3473,780
+"Redondel Km. 26 - El Triunfo","PESADO DE 2 EJES",1379,781
+"Redondel Km. 26 - El Mango","PESADO DE 2 EJES",2227,782
+"Pascuales - La Sequilla","PESADO DE 2 EJES",8766,783
+"Aeropuerto - Durán","PESADO DE 2 EJES",15223,784
+"Nobol - Pascuales","PESADO DE 2 EJES",1838,785
+"Puerto Inca - Entronque Vía Molleturo Km. 2.4","PESADO DE 2 EJES",3523,786
+"Milagro - Boliche","PESADO DE 2 EJES",2275,787
+"Durán - Yaguachi","PESADO DE 2 EJES",2964,788
+"Naranjito - Antonio Elizalde","PESADO DE 2 EJES",1613,789
+"El Empalme - Balzar","PESADO DE 2 EJES",918,790
+"Pichincha - El Rosario","PESADO DE 2 EJES",503,791
+"Atuntaqui - Otavalo (San Roque)","PESADO DE 2 EJES",3386,792
+"Y De Salinas - Ambuqui","PESADO DE 2 EJES",209,793
+"Y De Salinas - Salinas","PESADO DE 2 EJES",12,794
+"Y De Salinas - Ibarra","PESADO DE 2 EJES",947,795
+"Tulcán - Ibarra","PESADO DE 2 EJES",1704,796
+"Otavalo - Cajas","PESADO DE 2 EJES",1535,797
+"Tababuela - Bolívar (Ambuquí)","PESADO DE 2 EJES",537,798
+"Y De Velacruz - Catacocha","PESADO DE 2 EJES",312,799
+"Y De Velacruz - Chaguarpamba","PESADO DE 2 EJES",431,800
+"Y De Velacruz - Catamayo","PESADO DE 2 EJES",649,801
+"Saraguro - Loja","PESADO DE 2 EJES",244,802
+"Loja - Zamora","PESADO DE 2 EJES",229,803
+"Catamayo - Loja (Loja - Catamayo)","PESADO DE 2 EJES",1045,804
+"Balsas - Chaguarpamba","PESADO DE 2 EJES",300,805
+"Oña - Saraguro","PESADO DE 2 EJES",230,806
+"Vilcabamba - Loja","PESADO DE 2 EJES",450,807
+"El Empalme - Macará","PESADO DE 2 EJES",62,808
+"Ecuador - Perú","PESADO DE 2 EJES",1436,809
+"Quinara - Yangana","PESADO DE 2 EJES",150,810
+"Ecuador - Perú","PESADO DE 2 EJES",184,811
+"Y De Baba - Baba","PESADO DE 2 EJES",1814,812
+"Y De Baba - San Juan","PESADO DE 2 EJES",6289,813
+"Y De Baba - Babahoyo","PESADO DE 2 EJES",631,814
+"Pueblo Viejo - Babahoyo","PESADO DE 2 EJES",3392,815
+"Babahoyo - Jujan","PESADO DE 2 EJES",4497,816
+"Guayaquil - Montalvo","PESADO DE 2 EJES",105,817
+"Vía Puebloviejo - Catarama","PESADO DE 2 EJES",1053,818
+"Quevedo - Ventanas","PESADO DE 2 EJES",2269,819
+"Patricia Pilar - Buena Fe","PESADO DE 2 EJES",2754,820
+"Buena Fe - Quevedo","PESADO DE 2 EJES",3247,821
+"Quevedo - Valencia","PESADO DE 2 EJES",1925,822
+"Quevedo - Ventanas","PESADO DE 2 EJES",2525,823
+"Quevedo - Velasco Ibarra","PESADO DE 2 EJES",1661,824
+"Valencia - La Maná","PESADO DE 2 EJES",1555,825
+"Santo Domingo - Patricia Pilar","PESADO DE 2 EJES",2345,826
+"Vinces - Palestina","PESADO DE 2 EJES",475,827
+"Montalvo - El Limón","PESADO DE 2 EJES",779,828
+"Y de San Juan - Babahoyo","PESADO DE 2 EJES",4249,829
+"Y de San Juan - Vinces","PESADO DE 2 EJES",596,830
+"Y de San Juan - Pueblo Viejo","PESADO DE 2 EJES",4837,831
+"Manta - San Mateo","PESADO DE 2 EJES",322,832
+"Rocafuerte - Portoviejo","PESADO DE 2 EJES",1534,833
+"Portoviejo - El Rodeo","PESADO DE 2 EJES",880,834
+"Crucita - Manta","PESADO DE 2 EJES",1213,835
+"Flavio Alfaro - Chone","PESADO DE 2 EJES",500,836
+"San Vicente - San Antonio","PESADO DE 2 EJES",87,837
+"Sancán - Jipijapa","PESADO DE 2 EJES",1538,838
+"Galán - Jipijapa","PESADO DE 2 EJES",881,839
+"El Carmen - La Crespa","PESADO DE 2 EJES",443,840
+"San Jacinto - San Clemente","PESADO DE 2 EJES",362,841
+"Canuto - Calceta","PESADO DE 2 EJES",270,842
+"San Antonio - Chone","PESADO DE 2 EJES",692,843
+"Bahía - Tosagua","PESADO DE 2 EJES",133,844
+"Jipijapa - América","PESADO DE 2 EJES",1614,845
+"Ingreso al Puerto de Manta","PESADO DE 2 EJES",374,846
+"Montalvo - Caña Banchal","PESADO DE 2 EJES",1312,847
+"Rocafuerte - Río Chico","PESADO DE 2 EJES",255,848
+"Tosagua - Rocafuerte","PESADO DE 2 EJES",1059,849
+"Bachillero - Tosagua","PESADO DE 2 EJES",764,850
+"Muisne - Pedernales","PESADO DE 2 EJES",81,851
+"Pedernales - El Carmen","PESADO DE 2 EJES",223,852
+"Y de Montecristi - Manta","PESADO DE 2 EJES",3088,853
+"Y de Montecristi - Jipijapa","PESADO DE 2 EJES",175,854
+"Y de Montecristi - Portoviejo","PESADO DE 2 EJES",1909,855
+"Y de Río De Oro - Montecristi","PESADO DE 2 EJES",1765,856
+"Y de Río De Oro - La Pila","PESADO DE 2 EJES",891,857
+"Y de Río De Oro - Portoviejo","PESADO DE 2 EJES",2623,858
+"Canoa - San Vicente","PESADO DE 2 EJES",212,859
+"Rodeo - Calderón","PESADO DE 2 EJES",738,860
+"Jipijapa-américa","PESADO DE 2 EJES",1614,861
+"Ingreso al Puerto de Manta","PESADO DE 2 EJES",374,862
+"Montalvo - Caña Banchal","PESADO DE 2 EJES",1312,863
+"Redondel de La Universidad - Centro de Manta","PESADO DE 2 EJES",122,864
+"Redondel de La Universidad - Aeropuerto de Manta","PESADO DE 2 EJES",922,865
+"Redondel de La Universidad - Montecristi","PESADO DE 2 EJES",2724,866
+"Redondel de La Universidad - San Mateo","PESADO DE 2 EJES",676,867
+"Ayampe - Puerto Cayo","PESADO DE 2 EJES",613,868
+"Y De Bella Union - Santiago de Mendez","PESADO DE 2 EJES",410,869
+"Y De Bella Union - Logroño","PESADO DE 2 EJES",407,870
+"Y De Bella Union - Patuca","PESADO DE 2 EJES",191,871
+"Macas - Sucúa","PESADO DE 2 EJES",265,872
+"Limón Indanza - El Progreso","PESADO DE 2 EJES",55,873
+"Huamboya - Macas","PESADO DE 2 EJES",126,874
+"Gualaquiza - El Pangui","PESADO DE 2 EJES",225,875
+"Puyo - Macas","PESADO DE 2 EJES",134,876
+"Y de Hollín- Sardinas","PESADO DE 2 EJES",383,877
+"Y de Hollín- Loreto","PESADO DE 2 EJES",346,878
+"Y de Hollín- Cosanga","PESADO DE 2 EJES",383,879
+"Y de Baeza - Cuyuja","PESADO DE 2 EJES",1013,880
+"Y de Baeza -el Chaco","PESADO DE 2 EJES",903,881
+"Y de Baeza - Cosanga","PESADO DE 2 EJES",643,882
+"Archidona - Tena","PESADO DE 2 EJES",263,883
+"Tena - Puyo","PESADO DE 2 EJES",230,884
+"Papallacta - Pifo","PESADO DE 2 EJES",383,885
+"La Joya de Los Sachas - Puerto Fco. de Orellana","PESADO DE 2 EJES",640,886
+"Puerto Francisco de Orellana - Loreto","PESADO DE 2 EJES",418,887
+"Joya de Los Achas - Nueva Loja","PESADO DE 2 EJES",256,888
+"Tena - Puyo","PESADO DE 2 EJES",178,889
+"Fátima - Puyo","PESADO DE 2 EJES",964,890
+"Shell - Puyo","PESADO DE 2 EJES",2173,891
+"Puyo - Tarqui","PESADO DE 2 EJES",1396,892
+"Y de Palugo - Sangolquí","PESADO DE 2 EJES",2442,893
+"Y de Palugo - Pifo","PESADO DE 2 EJES",3216,894
+"Y de Palugo - Papallacta","PESADO DE 2 EJES",1684,895
+"Aloag - Tandapi (Aloag)","PESADO DE 2 EJES",3956,896
+"Otavalo - Tabacundo","PESADO DE 2 EJES",1135,897
+"Muisne - Pedernales","PESADO DE 2 EJES",81,898
+"Pedernales - El Carmen","PESADO DE 2 EJES",223,899
+"Y de Montecristi - Manta","PESADO DE 2 EJES",3088,900
+"Y de Montecristi - Jipijapa","PESADO DE 2 EJES",175,901
+"Y de Montecristi - Portoviejo","PESADO DE 2 EJES",1909,902
+"Y de Río De Oro - Montecristi","PESADO DE 2 EJES",1765,903
+"Y de Río De Oro - La Pila","PESADO DE 2 EJES",891,904
+"Y de Río De Oro - Portoviejo","PESADO DE 2 EJES",2623,905
+"Canoa - San Vicente","PESADO DE 2 EJES",212,906
+"Rodeo - Calderón","PESADO DE 2 EJES",738,907
+"Jipijapa-américa","PESADO DE 2 EJES",1614,908
+"Ingreso al Puerto de Manta","PESADO DE 2 EJES",374,909
+"Montalvo - Caña Banchal","PESADO DE 2 EJES",1312,910
+"Redondel de La Universidad - Centro de Manta","PESADO DE 2 EJES",122,911
+"Redondel de La Universidad - Aeropuerto de Manta","PESADO DE 2 EJES",922,912
+"Redondel de La Universidad - Montecristi","PESADO DE 2 EJES",2724,913
+"Redondel de La Universidad - San Mateo","PESADO DE 2 EJES",676,914
+"Ayampe - Puerto Cayo","PESADO DE 2 EJES",613,915
+"Y De Bella Union - Santiago de Mendez","PESADO DE 2 EJES",410,916
+"Y De Bella Union - Logroño","PESADO DE 2 EJES",407,917
+"Y De Bella Union - Patuca","PESADO DE 2 EJES",191,918
+"Macas - Sucúa","PESADO DE 2 EJES",265,919
+"Limón Indanza - El Progreso","PESADO DE 2 EJES",55,920
+"Huamboya - Macas","PESADO DE 2 EJES",225,921
+"Gualaquiza - El Pangui","PESADO DE 2 EJES",126,922
+"Puyo - Macas","PESADO DE 2 EJES",134,923
+"Y de Hollín- Sardinas","PESADO DE 2 EJES",383,924
+"Y de Hollín- Loreto","PESADO DE 2 EJES",346,925
+"Y de Hollín- Cosanga","PESADO DE 2 EJES",383,926
+"Y de Baeza - Cuyuja","PESADO DE 2 EJES",1013,927
+"Y de Baeza -el Chaco","PESADO DE 2 EJES",903,928
+"Y de Baeza - Cosanga","PESADO DE 2 EJES",643,929
+"Archidona - Tena","PESADO DE 2 EJES",263,930
+"Tena - Puyo","PESADO DE 2 EJES",230,931
+"Papallacta - Pifo","PESADO DE 2 EJES",383,932
+"La Joya de Los Sachas - Puerto Fco. de Orellana","PESADO DE 2 EJES",640,933
+"Puerto Francisco de Orellana - Loreto","PESADO DE 2 EJES",256,934
+"Joya de Los Achas - Nueva Loja","PESADO DE 2 EJES",418,935
+"Tena - Puyo","PESADO DE 2 EJES",178,936
+"Fátima - Puyo","PESADO DE 2 EJES",964,937
+"Shell - Puyo","PESADO DE 2 EJES",2173,938
+"Puyo - Tarqui","PESADO DE 2 EJES",1396,939
+"Y de Palugo - Sangolquí","PESADO DE 2 EJES",2442,940
+"Y de Palugo - Pifo","PESADO DE 2 EJES",3216,941
+"Y de Palugo - Papallacta","PESADO DE 2 EJES",1684,942
+"Aloag - Tandapi (Aloag)","PESADO DE 2 EJES",3956,943
+"Otavalo - Tabacundo","PESADO DE 2 EJES",1135,944
+"Guayllabamba - Calderón","PESADO DE 2 EJES",612,945
+"Quito - Cumbayá (Túnel Guayasamín)","PESADO DE 2 EJES",3764,946
+"Sangolqui - Y de Pintag","PESADO DE 2 EJES",0,947
+"Cayambe - Tabacundo","PESADO DE 2 EJES",1251,948
+"El Cajas - Cayambe","PESADO DE 2 EJES",688,949
+"Cayambe - Otón","PESADO DE 2 EJES",661,950
+"Tambillo - Aloag","PESADO DE 2 EJES",977,951
+"Y de Pifo - Tumbaco","PESADO DE 2 EJES",1409,952
+"Y de Pifo - Quinche","PESADO DE 2 EJES",4043,953
+"Y de Pifo - Papallacta","PESADO DE 2 EJES",3661,954
+"Sta. Rosa de Cuzubamba - Guayllabamba","PESADO DE 2 EJES",307,955
+"Sta. Rosa de Cuzubamba - El Quinche","PESADO DE 2 EJES",2194,956
+"Sta. Rosa de Cuzubamba - Guayllabamba","PESADO DE 2 EJES",1864,957
+"Machachi - Lasso","PESADO DE 2 EJES",2351,958
+"Aloag - Machachi","PESADO DE 2 EJES",2642,959
+"Y De Danec - Amaguaña","PESADO DE 2 EJES",756,960
+"Y De Danec - Sangolquí","PESADO DE 2 EJES",5367,961
+"Y De Danec - Selva Elegre","PESADO DE 2 EJES",2308,962
+"Redondel de Guaylabamba - Tabacundo","PESADO DE 2 EJES",306,963
+"Redondel de Guaylabamba - Sta. Rosa de Cusubamba","PESADO DE 2 EJES",2232,964
+"Redondel de Guaylabamba - Calderón","PESADO DE 2 EJES",1464,965
+"San Miguel de Los Bancos - Cristobal Colón","PESADO DE 2 EJES",3369,966
+"La Unión - San Antonio","PESADO DE 2 EJES",73,967
+"Y De Santa Elena - San Pablo","PESADO DE 2 EJES",434,968
+"Y De Santa Elena - Ballenita","PESADO DE 2 EJES",1066,969
+"Y De Santa Elena - Santa Elena","PESADO DE 2 EJES",1266,970
+"Santa Elena - Salinas","PESADO DE 2 EJES",2053,971
+"Monteverde - Manglaralto","PESADO DE 2 EJES",816,972
+"Salinas - La Libertad","PESADO DE 2 EJES",545,973
+"“Y” de Playas - Sta Elena","PESADO DE 2 EJES",5257,974
+"Santo Domingo A Esmeraldas","PESADO DE 2 EJES",504,975
+"Santo Domingo - Tandapi (Sto. Domingo)","PESADO DE 2 EJES",1757,976
+"Santo Domingo a El Carmen","PESADO DE 2 EJES",4108,977
+"Santo Domingo Via Quevedo","PESADO DE 2 EJES",1313,978
+"De Sto. Domingo a 10 De Agosto - Los Bancos","PESADO DE 2 EJES",2327,979
+"Sansahuari - La “Y” de Cuyabeno","PESADO DE 2 EJES",239,980
+"Dureno - Nueva Loja","PESADO DE 2 EJES",224,981
+"Nueva Loja - Lumbaqui","PESADO DE 2 EJES",655,982
+"Colombia - Ecuador","PESADO DE 2 EJES",482,983
+"El Playón de San Francisco - Sta. Barbara","PESADO DE 2 EJES",97,984
+"Cabeno - Lumbaqui","PESADO DE 2 EJES",48,985
+"Redondel Ambato - Pelileo","PESADO DE 2 EJES",25,986
+"Redondel Ambato - Picaihua","PESADO DE 2 EJES",2743,987
+"Redondel Ambato - Riobamba","PESADO DE 2 EJES",201,988
+"Redondel Ambato - Centro de Ambato","PESADO DE 2 EJES",2871,989
+"Ambato - Sta. Rosa","PESADO DE 2 EJES",3233,990
+"Ambato - Mocha","PESADO DE 2 EJES",1719,991
+"Salcedo - Ambato","PESADO DE 2 EJES",3019,992
+"Mocha - Riobamba","PESADO DE 2 EJES",1316,993
+"Ambato - Pelileo","PESADO DE 2 EJES",1508,994
+"Baños - Ulba","PESADO DE 2 EJES",608,995
+"Penipe - Pelileo","PESADO DE 2 EJES",16,996
+"Garcia Moreno - Baños","PESADO DE 2 EJES",1859,997
+"Yantzaza - Zamora","PESADO DE 2 EJES",342,998
+"Ecuador - Perú","PESADO DE 2 EJES",1,999
+"Cuenca - Nulti","PESADO MAS DE 2 EJES",5,1000
+"El Cajas - Cuenca","PESADO MAS DE 2 EJES",173,1001
+"Cuenca - Loja","PESADO MAS DE 2 EJES",705,1002
+"Paute - Gualaceo","PESADO MAS DE 2 EJES",607,1003
+"Paute - Santiago De Méndez","PESADO MAS DE 2 EJES",179,1004
+"Santa Isabel - Pasaje","PESADO MAS DE 2 EJES",386,1005
+"Sigsig - Gualaquiza","PESADO MAS DE 2 EJES",46,1006
+"Cuenca - Puerto Inca","PESADO MAS DE 2 EJES",381,1007
+"Nulti - Gualaceo (Chordeleg - Gualaceo)","PESADO MAS DE 2 EJES",284,1008
+"Y El Cabo - Cuenca","PESADO MAS DE 2 EJES",446,1009
+"Y El Cabo - Paute","PESADO MAS DE 2 EJES",481,1010
+"Y El Cabo - Gualaceo","PESADO MAS DE 2 EJES",259,1011
+"Y De Cuenca - Cuenca","PESADO MAS DE 2 EJES",597,1012
+"Y De Cuenca- Loja","PESADO MAS DE 2 EJES",286,1013
+"Y De Cuenca - Pasaje","PESADO MAS DE 2 EJES",377,1014
+"Guanujo - Guaranda","PESADO MAS DE 2 EJES",118,1015
+"Guaranda - Santa Fe","PESADO MAS DE 2 EJES",71,1016
+"Guaranda - Cashisagua","PESADO MAS DE 2 EJES",93,1017
+"Ambato - Guaranda","PESADO MAS DE 2 EJES",112,1018
+"Cañar - Biblian","PESADO MAS DE 2 EJES",653,1019
+"Biblian - Azogues","PESADO MAS DE 2 EJES",444,1020
+"Zhud - La Troncal","PESADO MAS DE 2 EJES",401,1021
+"La Troncal - Cochancay","PESADO MAS DE 2 EJES",691,1022
+"Biblian - Azogues","PESADO MAS DE 2 EJES",288,1023
+"El Tambo - Cañar","PESADO MAS DE 2 EJES",660,1024
+"Azogues - Cuenca","PESADO MAS DE 2 EJES",852,1025
+"La Troncal - Puerto Inca","PESADO MAS DE 2 EJES",126,1026
+"Y De Suscal - Suscal","PESADO MAS DE 2 EJES",423,1027
+"Y De Suscal - El Tambo","PESADO MAS DE 2 EJES",669,1028
+"Y De Suscal - Chunchi","PESADO MAS DE 2 EJES",253,1029
+"Julio Andrade - Huaca","PESADO MAS DE 2 EJES",507,1030
+"El Ángel - Mira","PESADO MAS DE 2 EJES",17,1031
+"Tulcán - Julio Andrade","PESADO MAS DE 2 EJES",183,1032
+"Tufiño - Tulcán","PESADO MAS DE 2 EJES",29,1033
+"El Ángel - Bolívar","PESADO MAS DE 2 EJES",42,1034
+"Tlcán- Ipiales","PESADO MAS DE 2 EJES",400,1035
+"Penipe - Riobamba","PESADO MAS DE 2 EJES",70,1036
+"Ambato - Riobamba","PESADO MAS DE 2 EJES",1064,1037
+"Riobamba - Villa Unión","PESADO MAS DE 2 EJES",849,1038
+"Colay - Atillo","PESADO MAS DE 2 EJES",36,1039
+"Guamote - Alausí","PESADO MAS DE 2 EJES",151,1040
+"Riobamba - Pallatanga","PESADO MAS DE 2 EJES",407,1041
+"Alausí - El Triunfo","PESADO MAS DE 2 EJES",22,1042
+"Latacunga - La Maná","PESADO MAS DE 2 EJES",345,1043
+"Lasso - Latacunga","PESADO MAS DE 2 EJES",1745,1044
+"Latacunga - Salcedo","PESADO MAS DE 2 EJES",1783,1045
+"La Maná - Puembo","PESADO MAS DE 2 EJES",201,1046
+"Salcedo - Ambato (Panzaleo)","PESADO MAS DE 2 EJES",904,1047
+"Y de Bellavista - Santa Rosa","PESADO MAS DE 2 EJES",1439,1048
+"Y de Bellavista - Arenillas","PESADO MAS DE 2 EJES",841,1049
+"Y de Bellavista - La Avanzada","PESADO MAS DE 2 EJES",701,1050
+"Entrada al Puerto - Machala","PESADO MAS DE 2 EJES",579,1051
+"Santa Isabel - Pasaje","PESADO MAS DE 2 EJES",290,1052
+"Machala - Santa Rosa","PESADO MAS DE 2 EJES",1425,1053
+"Arenillas - Piñas","PESADO MAS DE 2 EJES",224,1054
+"Arenillas - Alamor","PESADO MAS DE 2 EJES",312,1055
+"Huaquillas - Aguas Verdes","PESADO MAS DE 2 EJES",202,1056
+"Y de Pasaje - Machala","PESADO MAS DE 2 EJES",1259,1057
+"Y de Pasaje - Pasaje","PESADO MAS DE 2 EJES",460,1058
+"Y de Pasaje - Santa Rosa","PESADO MAS DE 2 EJES",849,1059
+"Y de La Victoria - La María","PESADO MAS DE 2 EJES",918,1060
+"Y de La Victoria - Paccha","PESADO MAS DE 2 EJES",829,1061
+"Y de La Victoria - Pasaje","PESADO MAS DE 2 EJES",250,1062
+"El Cambio - Machala","PESADO MAS DE 2 EJES",1457,1063
+"El Cambio - El Guabo","PESADO MAS DE 2 EJES",1339,1064
+"El Cambio - Pasaje","PESADO MAS DE 2 EJES",1684,1065
+"La María - Machala","PESADO MAS DE 2 EJES",1491,1066
+"La María - La Victoria","PESADO MAS DE 2 EJES",1046,1067
+"La María - Santa Rosa","PESADO MAS DE 2 EJES",138,1068
+"Y de San Lorenzo - Borbón","PESADO MAS DE 2 EJES",100,1069
+"Y de San Lorenzo - San Lorenzo","PESADO MAS DE 2 EJES",95,1070
+"Y de San Lorenzo - Calderón","PESADO MAS DE 2 EJES",130,1071
+"Redondel Central - Puerto Artesanal","PESADO MAS DE 2 EJES",607,1072
+"Atacames - Muisne","PESADO MAS DE 2 EJES",55,1073
+"Puerto Quito - La Indepedencia","PESADO MAS DE 2 EJES",275,1074
+"Rosa Zarate - Santo Domingo","PESADO MAS DE 2 EJES",104,1075
+"Colombia - Ecuador","PESADO MAS DE 2 EJES",23,1076
+"San Mateo - Esmeraldas","PESADO MAS DE 2 EJES",773,1077
+"San Mateo - Tachina","PESADO MAS DE 2 EJES",862,1078
+"San Mateo - Viche","PESADO MAS DE 2 EJES",1322,1079
+"Y de Esmeraldas - Atacames","PESADO MAS DE 2 EJES",638,1080
+"Y de Esmeraldas - Esmeraldas","PESADO MAS DE 2 EJES",485,1081
+"Y de Esmeraldas - San Mateo","PESADO MAS DE 2 EJES",449,1082
+"Entrada al Puerto De Esmeraldas","PESADO MAS DE 2 EJES",387,1083
+"El Ojal - Lita","PESADO MAS DE 2 EJES",87,1084
+"Naranjal - El Guabo","PESADO MAS DE 2 EJES",1339,1085
+"Balsar - Palestina","PESADO MAS DE 2 EJES",1446,1086
+"Playas - Data Posorja","PESADO MAS DE 2 EJES",243,1087
+"Chilcales - Cumandá","PESADO MAS DE 2 EJES",625,1088
+"Guayaquil - Gomez Rendon","PESADO MAS DE 2 EJES",914,1089
+"Guayaquil - Salitre","PESADO MAS DE 2 EJES",231,1090
+"Durán - Boliche","PESADO MAS DE 2 EJES",1332,1091
+"Durán - Delia (Tambo)","PESADO MAS DE 2 EJES",1368,1092
+"Milagro - Naranjito","PESADO MAS DE 2 EJES",361,1093
+"Daule - Santa Lucia","PESADO MAS DE 2 EJES",2158,1094
+"Daule - La Puntilla","PESADO MAS DE 2 EJES",126,1095
+"Velasco Ibarra - Pichincha","PESADO MAS DE 2 EJES",91,1096
+"Velasco Ibarra - Balzar","PESADO MAS DE 2 EJES",1471,1097
+"Quevedo - Velasco Ibarra","PESADO MAS DE 2 EJES",109,1098
+"Entrada al Puerto de Guayaquil","PESADO MAS DE 2 EJES",3511,1099
+"Naranjal - Puerto Inca","PESADO MAS DE 2 EJES",1782,1100
+"Pedro Carbo - Jipijapa","PESADO MAS DE 2 EJES",643,1101
+"El Empalme y Las Guayas","PESADO MAS DE 2 EJES",21,1102
+"Salitre - Baba","PESADO MAS DE 2 EJES",132,1103
+"Bucay - El Triunfo","PESADO MAS DE 2 EJES",784,1104
+"Y de San Jacinto De Yaguachi - Babahoyo","PESADO MAS DE 2 EJES",1261,1105
+"Y de San Jacinto De Yaguachi - Durán","PESADO MAS DE 2 EJES",1191,1106
+"Y de San Jacinto De Yaguachi - Milagro","PESADO MAS DE 2 EJES",601,1107
+"Y El Progreso - Guayaquil","PESADO MAS DE 2 EJES",111,1108
+"Y El Progreso- Playas","PESADO MAS DE 2 EJES",109,1109
+"Y El Progreso - Salinas","PESADO MAS DE 2 EJES",9,1110
+"Y De Milaro - Durán","PESADO MAS DE 2 EJES",2385,1111
+"Redondel Km. 26 - Durán","PESADO MAS DE 2 EJES",173,1112
+"Redondel Km. 26 - Milagro","PESADO MAS DE 2 EJES",2608,1113
+"Redondel Km. 26 - El Triunfo","PESADO MAS DE 2 EJES",899,1114
+"Redondel Km. 26 - El Mango","PESADO MAS DE 2 EJES",116,1115
+"Pascuales - La Sequilla","PESADO MAS DE 2 EJES",5497,1116
+"Aeropuerto - Durán","PESADO MAS DE 2 EJES",921,1117
+"Nobol - Pascuales","PESADO MAS DE 2 EJES",4493,1118
+"Puerto Inca - Entronque Vía Molleturo Km. 2.4","PESADO MAS DE 2 EJES",3311,1119
+"Milagro - Boliche","PESADO MAS DE 2 EJES",4515,1120
+"Durán - Yaguachi","PESADO MAS DE 2 EJES",601,1121
+"Naranjito - Antonio Elizalde","PESADO MAS DE 2 EJES",361,1122
+"El Empalme - Balzar","PESADO MAS DE 2 EJES",193,1123
+"Pichincha - El Rosario","PESADO MAS DE 2 EJES",69,1124
+"Atuntaqui - Otavalo (San Roque)","PESADO MAS DE 2 EJES",705,1125
+"Y De Salinas - Ambuqui","PESADO MAS DE 2 EJES",306,1126
+"Y De Salinas - Salinas","PESADO MAS DE 2 EJES",174,1127
+"Y De Salinas - Ibarra","PESADO MAS DE 2 EJES",503,1128
+"Tulcán - Ibarra","PESADO MAS DE 2 EJES",258,1129
+"Otavalo - Cajas","PESADO MAS DE 2 EJES",943,1130
+"Tababuela - Bolívar (Ambuquí)","PESADO MAS DE 2 EJES",1801,1131
+"Y De Velacruz - Catacocha","PESADO MAS DE 2 EJES",40,1132
+"Y De Velacruz - Chaguarpamba","PESADO MAS DE 2 EJES",134,1133
+"Y De Velacruz - Catamayo","PESADO MAS DE 2 EJES",158,1134
+"Saraguro - Loja","PESADO MAS DE 2 EJES",84,1135
+"Loja - Zamora","PESADO MAS DE 2 EJES",71,1136
+"Catamayo - Loja (Loja - Catamayo)","PESADO MAS DE 2 EJES",233,1137
+"Balsas - Chaguarpamba","PESADO MAS DE 2 EJES",220,1138
+"Oña - Saraguro","PESADO MAS DE 2 EJES",76,1139
+"Vilcabamba - Loja","PESADO MAS DE 2 EJES",59,1140
+"El Empalme - Macará","PESADO MAS DE 2 EJES",49,1141
+"Ecuador - Perú","PESADO MAS DE 2 EJES",70,1142
+"Quinara - Yangana","PESADO MAS DE 2 EJES",112,1143
+"Ecuador - Perú","PESADO MAS DE 2 EJES",32,1144
+"Y De Baba - Baba","PESADO MAS DE 2 EJES",341,1145
+"Y De Baba - San Juan","PESADO MAS DE 2 EJES",1288,1146
+"Y De Baba - Babahoyo","PESADO MAS DE 2 EJES",1311,1147
+"Pueblo Viejo - Babahoyo","PESADO MAS DE 2 EJES",2138,1148
+"Babahoyo - Jujan","PESADO MAS DE 2 EJES",2084,1149
+"Guayaquil - Montalvo","PESADO MAS DE 2 EJES",741,1150
+"Vía Puebloviejo - Catarama","PESADO MAS DE 2 EJES",117,1151
+"Quevedo - Ventanas","PESADO MAS DE 2 EJES",1037,1152
+"Patricia Pilar - Buena Fe","PESADO MAS DE 2 EJES",2974,1153
+"Buena Fe - Quevedo","PESADO MAS DE 2 EJES",3133,1154
+"Quevedo - Valencia","PESADO MAS DE 2 EJES",565,1155
+"Quevedo - Ventanas","PESADO MAS DE 2 EJES",1564,1156
+"Quevedo - Velasco Ibarra","PESADO MAS DE 2 EJES",1757,1157
+"Valencia - La Maná","PESADO MAS DE 2 EJES",228,1158
+"Santo Domingo - Patricia Pilar","PESADO MAS DE 2 EJES",2345,1159
+"Vinces - Palestina","PESADO MAS DE 2 EJES",213,1160
+"Montalvo - El Limón","PESADO MAS DE 2 EJES",151,1161
+"Y de San Juan - Babahoyo","PESADO MAS DE 2 EJES",1233,1162
+"Y de San Juan - Vinces","PESADO MAS DE 2 EJES",31,1163
+"Y de San Juan - Pueblo Viejo","PESADO MAS DE 2 EJES",1263,1164
+"Manta - San Mateo","PESADO MAS DE 2 EJES",502,1165
+"Rocafuerte - Portoviejo","PESADO MAS DE 2 EJES",1149,1166
+"Portoviejo - El Rodeo","PESADO MAS DE 2 EJES",203,1167
+"Crucita - Manta","PESADO MAS DE 2 EJES",771,1168
+"Flavio Alfaro - Chone","PESADO MAS DE 2 EJES",534,1169
+"San Vicente - San Antonio","PESADO MAS DE 2 EJES",13,1170
+"Sancán - Jipijapa","PESADO MAS DE 2 EJES",739,1171
+"Galán - Jipijapa","PESADO MAS DE 2 EJES",52,1172
+"El Carmen - La Crespa","PESADO MAS DE 2 EJES",325,1173
+"San Jacinto - San Clemente","PESADO MAS DE 2 EJES",176,1174
+"Canuto - Calceta","PESADO MAS DE 2 EJES",88,1175
+"San Antonio - Chone","PESADO MAS DE 2 EJES",529,1176
+"Bahía - Tosagua","PESADO MAS DE 2 EJES",9,1177
+"Jipijapa - América","PESADO MAS DE 2 EJES",854,1178
+"Ingreso al Puerto de Manta","PESADO MAS DE 2 EJES",141,1179
+"Montalvo - Caña Banchal","PESADO MAS DE 2 EJES",984,1180
+"Rocafuerte - Río Chico","PESADO MAS DE 2 EJES",36,1181
+"Tosagua - Rocafuerte","PESADO MAS DE 2 EJES",896,1182
+"Bachillero - Tosagua","PESADO MAS DE 2 EJES",637,1183
+"Muisne - Pedernales","PESADO MAS DE 2 EJES",8,1184
+"Pedernales - El Carmen","PESADO MAS DE 2 EJES",60,1185
+"Y de Montecristi - Manta","PESADO MAS DE 2 EJES",576,1186
+"Y de Montecristi - Jipijapa","PESADO MAS DE 2 EJES",523,1187
+"Y de Montecristi - Portoviejo","PESADO MAS DE 2 EJES",130,1188
+"Y de Río De Oro - Montecristi","PESADO MAS DE 2 EJES",132,1189
+"Y de Río De Oro - La Pila","PESADO MAS DE 2 EJES",184,1190
+"Y de Río De Oro - Portoviejo","PESADO MAS DE 2 EJES",306,1191
+"Canoa - San Vicente","PESADO MAS DE 2 EJES",110,1192
+"Rodeo - Calderón","PESADO MAS DE 2 EJES",192,1193
+"Jipijapa-américa","PESADO MAS DE 2 EJES",854,1194
+"Ingreso al Puerto de Manta","PESADO MAS DE 2 EJES",141,1195
+"Montalvo - Caña Banchal","PESADO MAS DE 2 EJES",984,1196
+"Redondel de La Universidad - Centro de Manta","PESADO MAS DE 2 EJES",290,1197
+"Redondel de La Universidad - Aeropuerto de Manta","PESADO MAS DE 2 EJES",289,1198
+"Redondel de La Universidad - Montecristi","PESADO MAS DE 2 EJES",293,1199
+"Redondel de La Universidad - San Mateo","PESADO MAS DE 2 EJES",188,1200
+"Ayampe - Puerto Cayo","PESADO MAS DE 2 EJES",86,1201
+"Y De Bella Union - Santiago de Mendez","PESADO MAS DE 2 EJES",139,1202
+"Y De Bella Union - Logroño","PESADO MAS DE 2 EJES",139,1203
+"Y De Bella Union - Patuca","PESADO MAS DE 2 EJES",26,1204
+"Macas - Sucúa","PESADO MAS DE 2 EJES",62,1205
+"Limón Indanza - El Progreso","PESADO MAS DE 2 EJES",17,1206
+"Huamboya - Macas","PESADO MAS DE 2 EJES",160,1207
+"Gualaquiza - El Pangui","PESADO MAS DE 2 EJES",56,1208
+"Puyo - Macas","PESADO MAS DE 2 EJES",36,1209
+"Y de Hollín- Sardinas","PESADO MAS DE 2 EJES",114,1210
+"Y de Hollín- Loreto","PESADO MAS DE 2 EJES",101,1211
+"Y de Hollín- Cosanga","PESADO MAS DE 2 EJES",103,1212
+"Y de Baeza - Cuyuja","PESADO MAS DE 2 EJES",363,1213
+"Y de Baeza -el Chaco","PESADO MAS DE 2 EJES",307,1214
+"Y de Baeza - Cosanga","PESADO MAS DE 2 EJES",140,1215
+"Archidona - Tena","PESADO MAS DE 2 EJES",119,1216
+"Tena - Puyo","PESADO MAS DE 2 EJES",62,1217
+"Papallacta - Pifo","PESADO MAS DE 2 EJES",225,1218
+"La Joya de Los Sachas - Puerto Fco. de Orellana","PESADO MAS DE 2 EJES",398,1219
+"Puerto Francisco de Orellana - Loreto","PESADO MAS DE 2 EJES",503,1220
+"Joya de Los Achas - Nueva Loja","PESADO MAS DE 2 EJES",173,1221
+"Tena - Puyo","PESADO MAS DE 2 EJES",71,1222
+"Fátima - Puyo","PESADO MAS DE 2 EJES",310,1223
+"Shell - Puyo","PESADO MAS DE 2 EJES",733,1224
+"Puyo - Tarqui","PESADO MAS DE 2 EJES",180,1225
+"Y de Palugo - Sangolquí","PESADO MAS DE 2 EJES",1281,1226
+"Y de Palugo - Pifo","PESADO MAS DE 2 EJES",1388,1227
+"Y de Palugo - Papallacta","PESADO MAS DE 2 EJES",658,1228
+"Aloag - Tandapi (Aloag)","PESADO MAS DE 2 EJES",2612,1229
+"Otavalo - Tabacundo","PESADO MAS DE 2 EJES",315,1230
+"Muisne - Pedernales","PESADO MAS DE 2 EJES",8,1231
+"Pedernales - El Carmen","PESADO MAS DE 2 EJES",60,1232
+"Y de Montecristi - Manta","PESADO MAS DE 2 EJES",576,1233
+"Y de Montecristi - Jipijapa","PESADO MAS DE 2 EJES",523,1234
+"Y de Montecristi - Portoviejo","PESADO MAS DE 2 EJES",130,1235
+"Y de Río De Oro - Montecristi","PESADO MAS DE 2 EJES",132,1236
+"Y de Río De Oro - La Pila","PESADO MAS DE 2 EJES",184,1237
+"Y de Río De Oro - Portoviejo","PESADO MAS DE 2 EJES",306,1238
+"Canoa - San Vicente","PESADO MAS DE 2 EJES",110,1239
+"Rodeo - Calderón","PESADO MAS DE 2 EJES",192,1240
+"Jipijapa-américa","PESADO MAS DE 2 EJES",854,1241
+"Ingreso al Puerto de Manta","PESADO MAS DE 2 EJES",141,1242
+"Montalvo - Caña Banchal","PESADO MAS DE 2 EJES",984,1243
+"Redondel de La Universidad - Centro de Manta","PESADO MAS DE 2 EJES",290,1244
+"Redondel de La Universidad - Aeropuerto de Manta","PESADO MAS DE 2 EJES",289,1245
+"Redondel de La Universidad - Montecristi","PESADO MAS DE 2 EJES",293,1246
+"Redondel de La Universidad - San Mateo","PESADO MAS DE 2 EJES",188,1247
+"Ayampe - Puerto Cayo","PESADO MAS DE 2 EJES",86,1248
+"Y De Bella Union - Santiago de Mendez","PESADO MAS DE 2 EJES",139,1249
+"Y De Bella Union - Logroño","PESADO MAS DE 2 EJES",139,1250
+"Y De Bella Union - Patuca","PESADO MAS DE 2 EJES",26,1251
+"Macas - Sucúa","PESADO MAS DE 2 EJES",62,1252
+"Limón Indanza - El Progreso","PESADO MAS DE 2 EJES",17,1253
+"Huamboya - Macas","PESADO MAS DE 2 EJES",56,1254
+"Gualaquiza - El Pangui","PESADO MAS DE 2 EJES",160,1255
+"Puyo - Macas","PESADO MAS DE 2 EJES",36,1256
+"Y de Hollín- Sardinas","PESADO MAS DE 2 EJES",114,1257
+"Y de Hollín- Loreto","PESADO MAS DE 2 EJES",101,1258
+"Y de Hollín- Cosanga","PESADO MAS DE 2 EJES",103,1259
+"Y de Baeza - Cuyuja","PESADO MAS DE 2 EJES",363,1260
+"Y de Baeza -el Chaco","PESADO MAS DE 2 EJES",307,1261
+"Y de Baeza - Cosanga","PESADO MAS DE 2 EJES",140,1262
+"Archidona - Tena","PESADO MAS DE 2 EJES",119,1263
+"Tena - Puyo","PESADO MAS DE 2 EJES",62,1264
+"Papallacta - Pifo","PESADO MAS DE 2 EJES",225,1265
+"La Joya de Los Sachas - Puerto Fco. de Orellana","PESADO MAS DE 2 EJES",398,1266
+"Puerto Francisco de Orellana - Loreto","PESADO MAS DE 2 EJES",173,1267
+"Joya de Los Achas - Nueva Loja","PESADO MAS DE 2 EJES",503,1268
+"Tena - Puyo","PESADO MAS DE 2 EJES",71,1269
+"Fátima - Puyo","PESADO MAS DE 2 EJES",310,1270
+"Shell - Puyo","PESADO MAS DE 2 EJES",733,1271
+"Puyo - Tarqui","PESADO MAS DE 2 EJES",180,1272
+"Y de Palugo - Sangolquí","PESADO MAS DE 2 EJES",1281,1273
+"Y de Palugo - Pifo","PESADO MAS DE 2 EJES",1388,1274
+"Y de Palugo - Papallacta","PESADO MAS DE 2 EJES",658,1275
+"Aloag - Tandapi (Aloag)","PESADO MAS DE 2 EJES",2612,1276
+"Otavalo - Tabacundo","PESADO MAS DE 2 EJES",315,1277
+"Guayllabamba - Calderón","PESADO MAS DE 2 EJES",1134,1278
+"Quito - Cumbayá (Túnel Guayasamín)","PESADO MAS DE 2 EJES",671,1279
+"Sangolqui - Y de Pintag","PESADO MAS DE 2 EJES",0,1280
+"Cayambe - Tabacundo","PESADO MAS DE 2 EJES",201,1281
+"El Cajas - Cayambe","PESADO MAS DE 2 EJES",204,1282
+"Cayambe - Otón","PESADO MAS DE 2 EJES",659,1283
+"Tambillo - Aloag","PESADO MAS DE 2 EJES",684,1284
+"Y de Pifo - Tumbaco","PESADO MAS DE 2 EJES",1905,1285
+"Y de Pifo - Quinche","PESADO MAS DE 2 EJES",472,1286
+"Y de Pifo - Papallacta","PESADO MAS DE 2 EJES",716,1287
+"Sta. Rosa de Cuzubamba - Guayllabamba","PESADO MAS DE 2 EJES",1013,1288
+"Sta. Rosa de Cuzubamba - El Quinche","PESADO MAS DE 2 EJES",634,1289
+"Sta. Rosa de Cuzubamba - Guayllabamba","PESADO MAS DE 2 EJES",221,1290
+"Machachi - Lasso","PESADO MAS DE 2 EJES",588,1291
+"Aloag - Machachi","PESADO MAS DE 2 EJES",1619,1292
+"Y De Danec - Amaguaña","PESADO MAS DE 2 EJES",1147,1293
+"Y De Danec - Sangolquí","PESADO MAS DE 2 EJES",1921,1294
+"Y De Danec - Selva Elegre","PESADO MAS DE 2 EJES",378,1295
+"Redondel de Guaylabamba - Tabacundo","PESADO MAS DE 2 EJES",1542,1296
+"Redondel de Guaylabamba - Sta. Rosa de Cusubamba","PESADO MAS DE 2 EJES",476,1297
+"Redondel de Guaylabamba - Calderón","PESADO MAS DE 2 EJES",420,1298
+"San Miguel de Los Bancos - Cristobal Colón","PESADO MAS DE 2 EJES",618,1299
+"La Unión - San Antonio","PESADO MAS DE 2 EJES",23,1300
+"Y De Santa Elena - San Pablo","PESADO MAS DE 2 EJES",3283,1301
+"Y De Santa Elena - Ballenita","PESADO MAS DE 2 EJES",42,1302
+"Y De Santa Elena - Santa Elena","PESADO MAS DE 2 EJES",37,1303
+"Santa Elena - Salinas","PESADO MAS DE 2 EJES",19,1304
+"Monteverde - Manglaralto","PESADO MAS DE 2 EJES",1093,1305
+"Salinas - La Libertad","PESADO MAS DE 2 EJES",87,1306
+"“Y” de Playas - Sta Elena","PESADO MAS DE 2 EJES",480,1307
+"Santo Domingo A Esmeraldas","PESADO MAS DE 2 EJES",88,1308
+"Santo Domingo - Tandapi (Sto. Domingo)","PESADO MAS DE 2 EJES",1006,1309
+"Santo Domingo a El Carmen","PESADO MAS DE 2 EJES",2588,1310
+"Santo Domingo Via Quevedo","PESADO MAS DE 2 EJES",792,1311
+"De Sto. Domingo a 10 De Agosto - Los Bancos","PESADO MAS DE 2 EJES",1702,1312
+"Sansahuari - La “Y” de Cuyabeno","PESADO MAS DE 2 EJES",176,1313
+"Dureno - Nueva Loja","PESADO MAS DE 2 EJES",75,1314
+"Nueva Loja - Lumbaqui","PESADO MAS DE 2 EJES",407,1315
+"Colombia - Ecuador","PESADO MAS DE 2 EJES",430,1316
+"El Playón de San Francisco - Sta. Barbara","PESADO MAS DE 2 EJES",6,1317
+"Cabeno - Lumbaqui","PESADO MAS DE 2 EJES",5,1318
+"Redondel Ambato - Pelileo","PESADO MAS DE 2 EJES",31,1319
+"Redondel Ambato - Picaihua","PESADO MAS DE 2 EJES",247,1320
+"Redondel Ambato - Riobamba","PESADO MAS DE 2 EJES",12,1321
+"Redondel Ambato - Centro de Ambato","PESADO MAS DE 2 EJES",631,1322
+"Ambato - Sta. Rosa","PESADO MAS DE 2 EJES",239,1323
+"Ambato - Mocha","PESADO MAS DE 2 EJES",815,1324
+"Salcedo - Ambato","PESADO MAS DE 2 EJES",1144,1325
+"Mocha - Riobamba","PESADO MAS DE 2 EJES",806,1326
+"Ambato - Pelileo","PESADO MAS DE 2 EJES",276,1327
+"Baños - Ulba","PESADO MAS DE 2 EJES",827,1328
+"Penipe - Pelileo","PESADO MAS DE 2 EJES",2,1329
+"Garcia Moreno - Baños","PESADO MAS DE 2 EJES",175,1330
+"Yantzaza - Zamora","PESADO MAS DE 2 EJES",133,1331
+"Ecuador - Perú","PESADO MAS DE 2 EJES",0,1332

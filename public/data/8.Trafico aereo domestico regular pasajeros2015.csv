@@ -1,0 +1,745 @@
+"RUTA","MESES","ENTRADAS","ID"
+"Quito - Guayaquil","ENERO",5911,1
+"Guayaquil - Quito","ENERO",63761,2
+"Quito-Guayaquil-Quito","ENERO",122871,3
+"Quito - Cuenca","ENERO",1451,4
+"Cuenca - Quito","ENERO",15256,5
+"Quito-Cuenca-Quito","ENERO",29766,6
+"Guayaquil - Cuenca","ENERO",2624,7
+"Cuenca - Guayaquil","ENERO",2694,8
+"Guayaquil-Cuenca-Guayaquil","ENERO",5318,9
+"Quito - Loja","ENERO",4355,10
+"Loja - Quito","ENERO",4786,11
+"Quito-Loja-Quito","ENERO",9141,12
+"Guayaquil - Loja","ENERO",1311,13
+"Loja - Guayaquil","ENERO",1266,14
+"Guayaquil-Loja-Guayaquil","ENERO",2577,15
+"Quito - Baltra","ENERO",7971,16
+"Baltra - Quito","ENERO",8987,17
+"Quito-Baltra-Quito","ENERO",16958,18
+"Guayaquil - Baltra","ENERO",8192,19
+"Baltra - Guayaquil","ENERO",9292,20
+"Guayaquil-Baltra-Guayaquil","ENERO",17484,21
+"Quito - San Cristobal","ENERO",2473,22
+"San Cristobal - Quito","ENERO",2642,23
+"Quito-San Cristobal-Quito","ENERO",5115,24
+"Guayaquil - San Cristobal","ENERO",365,25
+"San Cristobal - Guayaquil","ENERO",3506,26
+"Guayaquil-San Cristóbal-Guayaquil","ENERO",7156,27
+"Quito - Coca","ENERO",9335,28
+"Coca - Quito","ENERO",9076,29
+"Quito-Coca-Quito","ENERO",18411,30
+"Quito - Lago Agrio","ENERO",341,31
+"Lago Agrio - Quito","ENERO",3547,32
+"Quito-Lago Agrio - Quito","ENERO",6957,33
+"Quito - Macas","ENERO",200,34
+"Macas - Quito","ENERO",213,35
+"Quito-Macas-Quito","ENERO",413,36
+"Macas - Tena","ENERO",129,37
+"Macas - Tena","ENERO",129,38
+"Quito - Manta","ENERO",7949,39
+"Manta - Quito","ENERO",932,40
+"Quito - Manta - Quito","ENERO",17269,41
+"Guayaquil - Latacunga","ENERO",578,42
+"Latacunga - Guayaquil","ENERO",397,43
+"Guayaquil - Latacunga - Guayaquil","ENERO",975,44
+"Latacunga - Coca","ENERO",773,45
+"Coca Latacunga","ENERO",699,46
+"Latacunga - Coca - Latacunga","ENERO",1472,47
+"Quito - Tena","ENERO",42,48
+"Tena - Quito","ENERO",52,49
+"Quito - Tena - Quito","ENERO",94,50
+"Quito - Salinas","ENERO",445,51
+"Salinas - Quito","ENERO",429,52
+"Quito - Salinas - Quito","ENERO",874,53
+"Quito - Esmeraldas","ENERO",2861,54
+"Esmeraldas - Quito","ENERO",338,55
+"Quito - Esmeraldas - Quito","ENERO",6241,56
+"Guayaquil - Esmeraldas","ENERO",1088,57
+"Esmeraldas - Guayaquil","ENERO",1092,58
+"Guayaquil - Esmeraldas - Guayaquil","ENERO",218,59
+"Quito - Santa Rosa","ENERO",3665,60
+"Santa Rosa - Quito","ENERO",3714,61
+"Quito - Santa Rosa - Quito","ENERO",7379,62
+"Quito - Guayaquil","FEBRERO",5857,63
+"Guayaquil - Quito","FEBRERO",58249,64
+"Quito-Guayaquil-Quito","FEBRERO",116819,65
+"Quito - Cuenca","FEBRERO",1468,66
+"Cuenca - Quito","FEBRERO",14432,67
+"Quito-Cuenca-Quito","FEBRERO",29112,68
+"Guayaquil - Cuenca","FEBRERO",2497,69
+"Cuenca - Guayaquil","FEBRERO",2523,70
+"Guayaquil-Cuenca-Guayaquil","FEBRERO",502,71
+"Quito - Loja","FEBRERO",4381,72
+"Loja - Quito","FEBRERO",4609,73
+"Quito-Loja-Quito","FEBRERO",899,74
+"Guayaquil - Loja","FEBRERO",1287,75
+"Loja - Guayaquil","FEBRERO",1295,76
+"Guayaquil-Loja-Guayaquil","FEBRERO",2582,77
+"Quito - Baltra","FEBRERO",8481,78
+"Baltra - Quito","FEBRERO",8396,79
+"Quito-Baltra-Quito","FEBRERO",16877,80
+"Guayaquil - Baltra","FEBRERO",7874,81
+"Baltra - Guayaquil","FEBRERO",8229,82
+"Guayaquil-Baltra-Guayaquil","FEBRERO",16103,83
+"Quito - San Cristobal","FEBRERO",2888,84
+"San Cristobal - Quito","FEBRERO",227,85
+"Quito-San Cristobal-Quito","FEBRERO",5158,86
+"Guayaquil - San Cristobal","FEBRERO",3273,87
+"San Cristobal - Guayaquil","FEBRERO",3312,88
+"Guayaquil-San Cristóbal-Guayaquil","FEBRERO",6585,89
+"Quito - Coca","FEBRERO",8465,90
+"Coca - Quito","FEBRERO",8488,91
+"Quito-Coca-Quito","FEBRERO",16953,92
+"Quito - Lago Agrio","FEBRERO",3125,93
+"Lago Agrio - Quito","FEBRERO",3488,94
+"Quito-Lago Agrio - Quito","FEBRERO",6613,95
+"Quito - Macas","FEBRERO",177,96
+"Macas - Quito","FEBRERO",211,97
+"Quito-Macas-Quito","FEBRERO",388,98
+"Macas - Tena","FEBRERO",119,99
+"Macas - Tena","FEBRERO",119,100
+"Quito - Manta","FEBRERO",8464,101
+"Manta - Quito","FEBRERO",8596,102
+"Quito - Manta - Quito","FEBRERO",1706,103
+"Guayaquil - Latacunga","FEBRERO",553,104
+"Latacunga - Guayaquil","FEBRERO",439,105
+"Guayaquil - Latacunga - Guayaquil","FEBRERO",992,106
+"Latacunga - Coca","FEBRERO",737,107
+"Coca Latacunga","FEBRERO",740,108
+"Latacunga - Coca - Latacunga","FEBRERO",1477,109
+"Quito - Tena","FEBRERO",44,110
+"Tena - Quito","FEBRERO",54,111
+"Quito - Tena - Quito","FEBRERO",98,112
+"Quito - Salinas","FEBRERO",460,113
+"Salinas - Quito","FEBRERO",413,114
+"Quito - Salinas - Quito","FEBRERO",873,115
+"Quito - Esmeraldas","FEBRERO",3175,116
+"Esmeraldas - Quito","FEBRERO",3406,117
+"Quito - Esmeraldas - Quito","FEBRERO",6581,118
+"Guayaquil - Esmeraldas","FEBRERO",999,119
+"Esmeraldas - Guayaquil","FEBRERO",964,120
+"Guayaquil - Esmeraldas - Guayaquil","FEBRERO",1963,121
+"Quito - Santa Rosa","FEBRERO",3451,122
+"Santa Rosa - Quito","FEBRERO",3537,123
+"Quito - Santa Rosa - Quito","FEBRERO",6988,124
+"Quito - Guayaquil","MARZO",67222,125
+"Guayaquil - Quito","MARZO",68721,126
+"Quito-Guayaquil-Quito","MARZO",135943,127
+"Quito - Cuenca","MARZO",15304,128
+"Cuenca - Quito","MARZO",16299,129
+"Quito-Cuenca-Quito","MARZO",31603,130
+"Guayaquil - Cuenca","MARZO",2778,131
+"Cuenca - Guayaquil","MARZO",2994,132
+"Guayaquil-Cuenca-Guayaquil","MARZO",5772,133
+"Quito - Loja","MARZO",5054,134
+"Loja - Quito","MARZO",5052,135
+"Quito-Loja-Quito","MARZO",10106,136
+"Guayaquil - Loja","MARZO",1384,137
+"Loja - Guayaquil","MARZO",1267,138
+"Guayaquil-Loja-Guayaquil","MARZO",2651,139
+"Quito - Baltra","MARZO",9543,140
+"Baltra - Quito","MARZO",9856,141
+"Quito-Baltra-Quito","MARZO",19399,142
+"Guayaquil - Baltra","MARZO",9644,143
+"Baltra - Guayaquil","MARZO",11453,144
+"Guayaquil-Baltra-Guayaquil","MARZO",21097,145
+"Quito - San Cristobal","MARZO",2828,146
+"San Cristobal - Quito","MARZO",261,147
+"Quito-San Cristobal-Quito","MARZO",5438,148
+"Guayaquil - San Cristobal","MARZO",4423,149
+"San Cristobal - Guayaquil","MARZO",4663,150
+"Guayaquil-San Cristóbal-Guayaquil","MARZO",9086,151
+"Quito - Coca","MARZO",9228,152
+"Coca - Quito","MARZO",9469,153
+"Quito-Coca-Quito","MARZO",18697,154
+"Quito - Lago Agrio","MARZO",3365,155
+"Lago Agrio - Quito","MARZO",3689,156
+"Quito-Lago Agrio - Quito","MARZO",7054,157
+"Quito - Macas","MARZO",202,158
+"Macas - Quito","MARZO",223,159
+"Quito-Macas-Quito","MARZO",425,160
+"Macas - Tena","MARZO",117,161
+"Macas - Tena","MARZO",117,162
+"Quito - Manta","MARZO",9535,163
+"Manta - Quito","MARZO",10102,164
+"Quito - Manta - Quito","MARZO",19637,165
+"Guayaquil - Latacunga","MARZO",14,166
+"Latacunga - Guayaquil","MARZO",1336,167
+"Guayaquil - Latacunga - Guayaquil","MARZO",2736,168
+"Latacunga - Coca","MARZO",746,169
+"Coca Latacunga","MARZO",641,170
+"Latacunga - Coca - Latacunga","MARZO",1387,171
+"Quito - Tena","MARZO",31,172
+"Tena - Quito","MARZO",78,173
+"Quito - Tena - Quito","MARZO",109,174
+"Quito - Salinas","MARZO",457,175
+"Salinas - Quito","MARZO",426,176
+"Quito - Salinas - Quito","MARZO",883,177
+"Quito - Esmeraldas","MARZO",3187,178
+"Esmeraldas - Quito","MARZO",3462,179
+"Quito - Esmeraldas - Quito","MARZO",6649,180
+"Guayaquil - Esmeraldas","MARZO",1194,181
+"Esmeraldas - Guayaquil","MARZO",1078,182
+"Guayaquil - Esmeraldas - Guayaquil","MARZO",2272,183
+"Quito - Santa Rosa","MARZO",3769,184
+"Santa Rosa - Quito","MARZO",3889,185
+"Quito - Santa Rosa - Quito","MARZO",7658,186
+"Quito - Guayaquil","ABRIL",67253,187
+"Guayaquil - Quito","ABRIL",65025,188
+"Quito-Guayaquil-Quito","ABRIL",132278,189
+"Quito - Cuenca","ABRIL",15338,190
+"Cuenca - Quito","ABRIL",16071,191
+"Quito-Cuenca-Quito","ABRIL",31409,192
+"Guayaquil - Cuenca","ABRIL",256,193
+"Cuenca - Guayaquil","ABRIL",275,194
+"Guayaquil-Cuenca-Guayaquil","ABRIL",531,195
+"Quito - Loja","ABRIL",4812,196
+"Loja - Quito","ABRIL",4803,197
+"Quito-Loja-Quito","ABRIL",9615,198
+"Guayaquil - Loja","ABRIL",1342,199
+"Loja - Guayaquil","ABRIL",1387,200
+"Guayaquil-Loja-Guayaquil","ABRIL",2729,201
+"Quito - Baltra","ABRIL",9925,202
+"Baltra - Quito","ABRIL",9851,203
+"Quito-Baltra-Quito","ABRIL",19776,204
+"Guayaquil - Baltra","ABRIL",10283,205
+"Baltra - Guayaquil","ABRIL",9724,206
+"Guayaquil-Baltra-Guayaquil","ABRIL",20007,207
+"Quito - San Cristobal","ABRIL",2736,208
+"San Cristobal - Quito","ABRIL",2028,209
+"Quito-San Cristobal-Quito","ABRIL",4764,210
+"Guayaquil - San Cristobal","ABRIL",4062,211
+"San Cristobal - Guayaquil","ABRIL",3892,212
+"Guayaquil-San Cristóbal-Guayaquil","ABRIL",7954,213
+"Quito - Coca","ABRIL",8707,214
+"Coca - Quito","ABRIL",8972,215
+"Quito-Coca-Quito","ABRIL",17679,216
+"Quito - Lago Agrio","ABRIL",3252,217
+"Lago Agrio - Quito","ABRIL",359,218
+"Quito-Lago Agrio - Quito","ABRIL",6842,219
+"Quito - Macas","ABRIL",145,220
+"Macas - Quito","ABRIL",134,221
+"Quito-Macas-Quito","ABRIL",279,222
+"Macas - Tena","ABRIL",102,223
+"Macas - Tena","ABRIL",102,224
+"Quito - Manta","ABRIL",1008,225
+"Manta - Quito","ABRIL",10175,226
+"Quito - Manta - Quito","ABRIL",20255,227
+"Guayaquil - Latacunga","ABRIL",1429,228
+"Latacunga - Guayaquil","ABRIL",1422,229
+"Guayaquil - Latacunga - Guayaquil","ABRIL",2851,230
+"Latacunga - Coca","ABRIL",755,231
+"Coca Latacunga","ABRIL",687,232
+"Latacunga - Coca - Latacunga","ABRIL",1442,233
+"Quito - Tena","ABRIL",31,234
+"Tena - Quito","ABRIL",32,235
+"Quito - Tena - Quito","ABRIL",63,236
+"Quito - Salinas","ABRIL",430,237
+"Salinas - Quito","ABRIL",365,238
+"Quito - Salinas - Quito","ABRIL",795,239
+"Quito - Esmeraldas","ABRIL",3369,240
+"Esmeraldas - Quito","ABRIL",3456,241
+"Quito - Esmeraldas - Quito","ABRIL",6825,242
+"Guayaquil - Esmeraldas","ABRIL",1235,243
+"Esmeraldas - Guayaquil","ABRIL",1095,244
+"Guayaquil - Esmeraldas - Guayaquil","ABRIL",233,245
+"Quito - Santa Rosa","ABRIL",3634,246
+"Santa Rosa - Quito","ABRIL",361,247
+"Quito - Santa Rosa - Quito","ABRIL",7244,248
+"Quito - Guayaquil","MAYO",6289,249
+"Guayaquil - Quito","MAYO",5925,250
+"Quito-Guayaquil-Quito","MAYO",12214,251
+"Quito - Cuenca","MAYO",16677,252
+"Cuenca - Quito","MAYO",16844,253
+"Quito-Cuenca-Quito","MAYO",33521,254
+"Guayaquil - Cuenca","MAYO",2889,255
+"Cuenca - Guayaquil","MAYO",308,256
+"Guayaquil-Cuenca-Guayaquil","MAYO",5969,257
+"Quito - Loja","MAYO",4969,258
+"Loja - Quito","MAYO",4998,259
+"Quito-Loja-Quito","MAYO",9967,260
+"Guayaquil - Loja","MAYO",1439,261
+"Loja - Guayaquil","MAYO",1421,262
+"Guayaquil-Loja-Guayaquil","MAYO",286,263
+"Quito - Baltra","MAYO",10056,264
+"Baltra - Quito","MAYO",10194,265
+"Quito-Baltra-Quito","MAYO",2025,266
+"Guayaquil - Baltra","MAYO",9388,267
+"Baltra - Guayaquil","MAYO",8373,268
+"Guayaquil-Baltra-Guayaquil","MAYO",17761,269
+"Quito - San Cristobal","MAYO",2921,270
+"San Cristobal - Quito","MAYO",2142,271
+"Quito-San Cristobal-Quito","MAYO",5063,272
+"Guayaquil - San Cristobal","MAYO",4003,273
+"San Cristobal - Guayaquil","MAYO",3383,274
+"Guayaquil-San Cristóbal-Guayaquil","MAYO",7386,275
+"Quito - Coca","MAYO",4984,276
+"Coca - Quito","MAYO",4832,277
+"Quito-Coca-Quito","MAYO",9816,278
+"Quito - Lago Agrio","MAYO",5879,279
+"Lago Agrio - Quito","MAYO",6434,280
+"Quito-Lago Agrio - Quito","MAYO",12313,281
+"Quito - Macas","MAYO",209,282
+"Macas - Quito","MAYO",203,283
+"Quito-Macas-Quito","MAYO",412,284
+"Macas - Tena","MAYO",120,285
+"Macas - Tena","MAYO",120,286
+"Quito - Manta","MAYO",9853,287
+"Manta - Quito","MAYO",9724,288
+"Quito - Manta - Quito","MAYO",19577,289
+"Guayaquil - Latacunga","MAYO",136,290
+"Latacunga - Guayaquil","MAYO",1301,291
+"Guayaquil - Latacunga - Guayaquil","MAYO",2661,292
+"Latacunga - Coca","MAYO",359,293
+"Coca Latacunga","MAYO",251,294
+"Latacunga - Coca - Latacunga","MAYO",610,295
+"Quito - Tena","MAYO",63,296
+"Tena - Quito","MAYO",52,297
+"Quito - Tena - Quito","MAYO",115,298
+"Quito - Salinas","MAYO",503,299
+"Salinas - Quito","MAYO",453,300
+"Quito - Salinas - Quito","MAYO",956,301
+"Quito - Esmeraldas","MAYO",3285,302
+"Esmeraldas - Quito","MAYO",3536,303
+"Quito - Esmeraldas - Quito","MAYO",6821,304
+"Guayaquil - Esmeraldas","MAYO",1249,305
+"Esmeraldas - Guayaquil","MAYO",1113,306
+"Guayaquil - Esmeraldas - Guayaquil","MAYO",2362,307
+"Quito - Santa Rosa","MAYO",3396,308
+"Santa Rosa - Quito","MAYO",3426,309
+"Quito - Santa Rosa - Quito","MAYO",6822,310
+"Quito - Guayaquil","JUNIO",59664,311
+"Guayaquil - Quito","JUNIO",5771,312
+"Quito-Guayaquil-Quito","JUNIO",117374,313
+"Quito - Cuenca","JUNIO",17439,314
+"Cuenca - Quito","JUNIO",16745,315
+"Quito-Cuenca-Quito","JUNIO",34184,316
+"Guayaquil - Cuenca","JUNIO",2636,317
+"Cuenca - Guayaquil","JUNIO",2662,318
+"Guayaquil-Cuenca-Guayaquil","JUNIO",5298,319
+"Quito - Loja","JUNIO",4967,320
+"Loja - Quito","JUNIO",4825,321
+"Quito-Loja-Quito","JUNIO",9792,322
+"Guayaquil - Loja","JUNIO",1479,323
+"Loja - Guayaquil","JUNIO",1337,324
+"Guayaquil-Loja-Guayaquil","JUNIO",2816,325
+"Quito - Baltra","JUNIO",9391,326
+"Baltra - Quito","JUNIO",926,327
+"Quito-Baltra-Quito","JUNIO",18651,328
+"Guayaquil - Baltra","JUNIO",693,329
+"Baltra - Guayaquil","JUNIO",7539,330
+"Guayaquil-Baltra-Guayaquil","JUNIO",14469,331
+"Quito - San Cristobal","JUNIO",2926,332
+"San Cristobal - Quito","JUNIO",2106,333
+"Quito-San Cristobal-Quito","JUNIO",5032,334
+"Guayaquil - San Cristobal","JUNIO",3084,335
+"San Cristobal - Guayaquil","JUNIO",2773,336
+"Guayaquil-San Cristóbal-Guayaquil","JUNIO",5857,337
+"Quito - Coca","JUNIO",942,338
+"Coca - Quito","JUNIO",911,339
+"Quito-Coca-Quito","JUNIO",1853,340
+"Quito - Lago Agrio","JUNIO",4239,341
+"Lago Agrio - Quito","JUNIO",4403,342
+"Quito-Lago Agrio - Quito","JUNIO",8642,343
+"Quito - Macas","JUNIO",206,344
+"Macas - Quito","JUNIO",213,345
+"Quito-Macas-Quito","JUNIO",419,346
+"Macas - Tena","JUNIO",173,347
+"Macas - Tena","JUNIO",173,348
+"Quito - Manta","JUNIO",9169,349
+"Manta - Quito","JUNIO",8967,350
+"Quito - Manta - Quito","JUNIO",18136,351
+"Guayaquil - Latacunga","JUNIO",1378,352
+"Latacunga - Guayaquil","JUNIO",1258,353
+"Guayaquil - Latacunga - Guayaquil","JUNIO",2636,354
+"Latacunga - Coca","JUNIO",1122,355
+"Coca Latacunga","JUNIO",978,356
+"Latacunga - Coca - Latacunga","JUNIO",21,357
+"Quito - Tena","JUNIO",90,358
+"Tena - Quito","JUNIO",104,359
+"Quito - Tena - Quito","JUNIO",194,360
+"Quito - Salinas","JUNIO",497,361
+"Salinas - Quito","JUNIO",427,362
+"Quito - Salinas - Quito","JUNIO",924,363
+"Quito - Esmeraldas","JUNIO",3258,364
+"Esmeraldas - Quito","JUNIO",3442,365
+"Quito - Esmeraldas - Quito","JUNIO",67,366
+"Guayaquil - Esmeraldas","JUNIO",1068,367
+"Esmeraldas - Guayaquil","JUNIO",898,368
+"Guayaquil - Esmeraldas - Guayaquil","JUNIO",1966,369
+"Quito - Santa Rosa","JUNIO",3632,370
+"Santa Rosa - Quito","JUNIO",3693,371
+"Quito - Santa Rosa - Quito","JUNIO",7325,372
+"Quito - Guayaquil","JULIO",63265,373
+"Guayaquil - Quito","JULIO",5866,374
+"Quito-Guayaquil-Quito","JULIO",121925,375
+"Quito - Cuenca","JULIO",17555,376
+"Cuenca - Quito","JULIO",17495,377
+"Quito-Cuenca-Quito","JULIO",3505,378
+"Guayaquil - Cuenca","JULIO",2722,379
+"Cuenca - Guayaquil","JULIO",3118,380
+"Guayaquil-Cuenca-Guayaquil","JULIO",584,381
+"Quito - Loja","JULIO",5024,382
+"Loja - Quito","JULIO",4991,383
+"Quito-Loja-Quito","JULIO",10015,384
+"Guayaquil - Loja","JULIO",1552,385
+"Loja - Guayaquil","JULIO",1443,386
+"Guayaquil-Loja-Guayaquil","JULIO",2995,387
+"Quito - Baltra","JULIO",1253,388
+"Baltra - Quito","JULIO",1235,389
+"Quito-Baltra-Quito","JULIO",2488,390
+"Guayaquil - Baltra","JULIO",7934,391
+"Baltra - Guayaquil","JULIO",8493,392
+"Guayaquil-Baltra-Guayaquil","JULIO",16427,393
+"Quito - San Cristobal","JULIO",3331,394
+"San Cristobal - Quito","JULIO",2562,395
+"Quito-San Cristobal-Quito","JULIO",5893,396
+"Guayaquil - San Cristobal","JULIO",3104,397
+"San Cristobal - Guayaquil","JULIO",3096,398
+"Guayaquil-San Cristóbal-Guayaquil","JULIO",62,399
+"Quito - Coca","JULIO",9723,400
+"Coca - Quito","JULIO",10041,401
+"Quito-Coca-Quito","JULIO",19764,402
+"Quito - Lago Agrio","JULIO",443,403
+"Lago Agrio - Quito","JULIO",5038,404
+"Quito-Lago Agrio - Quito","JULIO",9468,405
+"Quito - Macas","JULIO",269,406
+"Macas - Quito","JULIO",224,407
+"Quito-Macas-Quito","JULIO",493,408
+"Macas - Tena","JULIO",242,409
+"Macas - Tena","JULIO",242,410
+"Quito - Manta","JULIO",9457,411
+"Manta - Quito","JULIO",9519,412
+"Quito - Manta - Quito","JULIO",18976,413
+"Guayaquil - Latacunga","JULIO",1633,414
+"Latacunga - Guayaquil","JULIO",1474,415
+"Guayaquil - Latacunga - Guayaquil","JULIO",3107,416
+"Latacunga - Coca","JULIO",12,417
+"Coca Latacunga","JULIO",1148,418
+"Latacunga - Coca - Latacunga","JULIO",2348,419
+"Quito - Tena","JULIO",211,420
+"Tena - Quito","JULIO",227,421
+"Quito - Tena - Quito","JULIO",438,422
+"Quito - Salinas","JULIO",540,423
+"Salinas - Quito","JULIO",516,424
+"Quito - Salinas - Quito","JULIO",1056,425
+"Quito - Esmeraldas","JULIO",3769,426
+"Esmeraldas - Quito","JULIO",3948,427
+"Quito - Esmeraldas - Quito","JULIO",7717,428
+"Guayaquil - Esmeraldas","JULIO",1231,429
+"Esmeraldas - Guayaquil","JULIO",101,430
+"Guayaquil - Esmeraldas - Guayaquil","JULIO",2241,431
+"Quito - Santa Rosa","JULIO",3711,432
+"Santa Rosa - Quito","JULIO",3603,433
+"Quito - Santa Rosa - Quito","JULIO",7314,434
+"Quito - Guayaquil","AGOSTO",60456,435
+"Guayaquil - Quito","AGOSTO",59938,436
+"Quito-Guayaquil-Quito","AGOSTO",120394,437
+"Quito - Cuenca","AGOSTO",17099,438
+"Cuenca - Quito","AGOSTO",17684,439
+"Quito-Cuenca-Quito","AGOSTO",34783,440
+"Guayaquil - Cuenca","AGOSTO",2619,441
+"Cuenca - Guayaquil","AGOSTO",3187,442
+"Guayaquil-Cuenca-Guayaquil","AGOSTO",5806,443
+"Quito - Loja","AGOSTO",5138,444
+"Loja - Quito","AGOSTO",5374,445
+"Quito-Loja-Quito","AGOSTO",10512,446
+"Guayaquil - Loja","AGOSTO",1504,447
+"Loja - Guayaquil","AGOSTO",1546,448
+"Guayaquil-Loja-Guayaquil","AGOSTO",305,449
+"Quito - Baltra","AGOSTO",11611,450
+"Baltra - Quito","AGOSTO",1306,451
+"Quito-Baltra-Quito","AGOSTO",24671,452
+"Guayaquil - Baltra","AGOSTO",8663,453
+"Baltra - Guayaquil","AGOSTO",9385,454
+"Guayaquil-Baltra-Guayaquil","AGOSTO",18048,455
+"Quito - San Cristobal","AGOSTO",2892,456
+"San Cristobal - Quito","AGOSTO",2639,457
+"Quito-San Cristobal-Quito","AGOSTO",5531,458
+"Guayaquil - San Cristobal","AGOSTO",3744,459
+"San Cristobal - Guayaquil","AGOSTO",3667,460
+"Guayaquil-San Cristóbal-Guayaquil","AGOSTO",7411,461
+"Quito - Coca","AGOSTO",868,462
+"Coca - Quito","AGOSTO",8349,463
+"Quito-Coca-Quito","AGOSTO",17029,464
+"Quito - Lago Agrio","AGOSTO",3985,465
+"Lago Agrio - Quito","AGOSTO",4365,466
+"Quito-Lago Agrio - Quito","AGOSTO",835,467
+"Quito - Macas","AGOSTO",288,468
+"Macas - Quito","AGOSTO",214,469
+"Quito-Macas-Quito","AGOSTO",502,470
+"Macas - Tena","AGOSTO",178,471
+"Macas - Tena","AGOSTO",178,472
+"Quito - Manta","AGOSTO",10147,473
+"Manta - Quito","AGOSTO",10658,474
+"Quito - Manta - Quito","AGOSTO",20805,475
+"Guayaquil - Latacunga","AGOSTO",1148,476
+"Latacunga - Guayaquil","AGOSTO",129,477
+"Guayaquil - Latacunga - Guayaquil","AGOSTO",2438,478
+"Latacunga - Coca","AGOSTO",746,479
+"Coca Latacunga","AGOSTO",728,480
+"Latacunga - Coca - Latacunga","AGOSTO",1474,481
+"Quito - Tena","AGOSTO",78,482
+"Tena - Quito","AGOSTO",139,483
+"Quito - Tena - Quito","AGOSTO",217,484
+"Quito - Salinas","AGOSTO",669,485
+"Salinas - Quito","AGOSTO",690,486
+"Quito - Salinas - Quito","AGOSTO",1359,487
+"Quito - Esmeraldas","AGOSTO",4043,488
+"Esmeraldas - Quito","AGOSTO",4327,489
+"Quito - Esmeraldas - Quito","AGOSTO",837,490
+"Guayaquil - Esmeraldas","AGOSTO",1288,491
+"Esmeraldas - Guayaquil","AGOSTO",1199,492
+"Guayaquil - Esmeraldas - Guayaquil","AGOSTO",2487,493
+"Quito - Santa Rosa","AGOSTO",3533,494
+"Santa Rosa - Quito","AGOSTO",3636,495
+"Quito - Santa Rosa - Quito","AGOSTO",7169,496
+"Quito - Guayaquil","SEPTIEMBRE",58782,497
+"Guayaquil - Quito","SEPTIEMBRE",59259,498
+"Quito-Guayaquil-Quito","SEPTIEMBRE",118041,499
+"Quito - Cuenca","SEPTIEMBRE",15919,500
+"Cuenca - Quito","SEPTIEMBRE",16538,501
+"Quito-Cuenca-Quito","SEPTIEMBRE",32457,502
+"Guayaquil - Cuenca","SEPTIEMBRE",2485,503
+"Cuenca - Guayaquil","SEPTIEMBRE",2776,504
+"Guayaquil-Cuenca-Guayaquil","SEPTIEMBRE",5261,505
+"Quito - Loja","SEPTIEMBRE",4926,506
+"Loja - Quito","SEPTIEMBRE",4849,507
+"Quito-Loja-Quito","SEPTIEMBRE",9775,508
+"Guayaquil - Loja","SEPTIEMBRE",1305,509
+"Loja - Guayaquil","SEPTIEMBRE",1396,510
+"Guayaquil-Loja-Guayaquil","SEPTIEMBRE",2701,511
+"Quito - Baltra","SEPTIEMBRE",7132,512
+"Baltra - Quito","SEPTIEMBRE",7269,513
+"Quito-Baltra-Quito","SEPTIEMBRE",14401,514
+"Guayaquil - Baltra","SEPTIEMBRE",6683,515
+"Baltra - Guayaquil","SEPTIEMBRE",6937,516
+"Guayaquil-Baltra-Guayaquil","SEPTIEMBRE",1362,517
+"Quito - San Cristobal","SEPTIEMBRE",1947,518
+"San Cristobal - Quito","SEPTIEMBRE",1737,519
+"Quito-San Cristobal-Quito","SEPTIEMBRE",3684,520
+"Guayaquil - San Cristobal","SEPTIEMBRE",3079,521
+"San Cristobal - Guayaquil","SEPTIEMBRE",2926,522
+"Guayaquil-San Cristóbal-Guayaquil","SEPTIEMBRE",6005,523
+"Quito - Coca","SEPTIEMBRE",8154,524
+"Coca - Quito","SEPTIEMBRE",8122,525
+"Quito-Coca-Quito","SEPTIEMBRE",16276,526
+"Quito - Lago Agrio","SEPTIEMBRE",3642,527
+"Lago Agrio - Quito","SEPTIEMBRE",4724,528
+"Quito-Lago Agrio - Quito","SEPTIEMBRE",8366,529
+"Quito - Macas","SEPTIEMBRE",235,530
+"Macas - Quito","SEPTIEMBRE",135,531
+"Quito-Macas-Quito","SEPTIEMBRE",370,532
+"Macas - Tena","SEPTIEMBRE",201,533
+"Macas - Tena","SEPTIEMBRE",201,534
+"Quito - Manta","SEPTIEMBRE",8108,535
+"Manta - Quito","SEPTIEMBRE",8443,536
+"Quito - Manta - Quito","SEPTIEMBRE",16551,537
+"Guayaquil - Latacunga","SEPTIEMBRE",629,538
+"Latacunga - Guayaquil","SEPTIEMBRE",573,539
+"Guayaquil - Latacunga - Guayaquil","SEPTIEMBRE",1202,540
+"Latacunga - Coca","SEPTIEMBRE",693,541
+"Coca Latacunga","SEPTIEMBRE",511,542
+"Latacunga - Coca - Latacunga","SEPTIEMBRE",1204,543
+"Quito - Tena","SEPTIEMBRE",53,544
+"Tena - Quito","SEPTIEMBRE",72,545
+"Quito - Tena - Quito","SEPTIEMBRE",125,546
+"Quito - Salinas","SEPTIEMBRE",449,547
+"Salinas - Quito","SEPTIEMBRE",413,548
+"Quito - Salinas - Quito","SEPTIEMBRE",862,549
+"Quito - Esmeraldas","SEPTIEMBRE",3302,550
+"Esmeraldas - Quito","SEPTIEMBRE",3446,551
+"Quito - Esmeraldas - Quito","SEPTIEMBRE",6748,552
+"Guayaquil - Esmeraldas","SEPTIEMBRE",1173,553
+"Esmeraldas - Guayaquil","SEPTIEMBRE",991,554
+"Guayaquil - Esmeraldas - Guayaquil","SEPTIEMBRE",2164,555
+"Quito - Santa Rosa","SEPTIEMBRE",3628,556
+"Santa Rosa - Quito","SEPTIEMBRE",3709,557
+"Quito - Santa Rosa - Quito","SEPTIEMBRE",7337,558
+"Quito - Guayaquil","OCTUBRE",63323,559
+"Guayaquil - Quito","OCTUBRE",61759,560
+"Quito-Guayaquil-Quito","OCTUBRE",125082,561
+"Quito - Cuenca","OCTUBRE",1718,562
+"Cuenca - Quito","OCTUBRE",16694,563
+"Quito-Cuenca-Quito","OCTUBRE",33874,564
+"Guayaquil - Cuenca","OCTUBRE",2591,565
+"Cuenca - Guayaquil","OCTUBRE",2574,566
+"Guayaquil-Cuenca-Guayaquil","OCTUBRE",5165,567
+"Quito - Loja","OCTUBRE",5398,568
+"Loja - Quito","OCTUBRE",5148,569
+"Quito-Loja-Quito","OCTUBRE",10546,570
+"Guayaquil - Loja","OCTUBRE",1425,571
+"Loja - Guayaquil","OCTUBRE",1364,572
+"Guayaquil-Loja-Guayaquil","OCTUBRE",2789,573
+"Quito - Baltra","OCTUBRE",9147,574
+"Baltra - Quito","OCTUBRE",8855,575
+"Quito-Baltra-Quito","OCTUBRE",18002,576
+"Guayaquil - Baltra","OCTUBRE",8817,577
+"Baltra - Guayaquil","OCTUBRE",8875,578
+"Guayaquil-Baltra-Guayaquil","OCTUBRE",17692,579
+"Quito - San Cristobal","OCTUBRE",2384,580
+"San Cristobal - Quito","OCTUBRE",1713,581
+"Quito-San Cristobal-Quito","OCTUBRE",4097,582
+"Guayaquil - San Cristobal","OCTUBRE",3559,583
+"San Cristobal - Guayaquil","OCTUBRE",3639,584
+"Guayaquil-San Cristóbal-Guayaquil","OCTUBRE",7198,585
+"Quito - Coca","OCTUBRE",7232,586
+"Coca - Quito","OCTUBRE",7586,587
+"Quito-Coca-Quito","OCTUBRE",14818,588
+"Quito - Lago Agrio","OCTUBRE",335,589
+"Lago Agrio - Quito","OCTUBRE",3732,590
+"Quito-Lago Agrio - Quito","OCTUBRE",7082,591
+"Quito - Macas","OCTUBRE",208,592
+"Macas - Quito","OCTUBRE",178,593
+"Quito-Macas-Quito","OCTUBRE",386,594
+"Macas - Tena","OCTUBRE",114,595
+"Macas - Tena","OCTUBRE",114,596
+"Quito - Manta","OCTUBRE",10103,597
+"Manta - Quito","OCTUBRE",961,598
+"Quito - Manta - Quito","OCTUBRE",19713,599
+"Guayaquil - Latacunga","OCTUBRE",647,600
+"Latacunga - Guayaquil","OCTUBRE",572,601
+"Guayaquil - Latacunga - Guayaquil","OCTUBRE",1219,602
+"Latacunga - Coca","OCTUBRE",510,603
+"Coca Latacunga","OCTUBRE",428,604
+"Latacunga - Coca - Latacunga","OCTUBRE",938,605
+"Quito - Tena","OCTUBRE",84,606
+"Tena - Quito","OCTUBRE",90,607
+"Quito - Tena - Quito","OCTUBRE",174,608
+"Quito - Salinas","OCTUBRE",609,609
+"Salinas - Quito","OCTUBRE",417,610
+"Quito - Salinas - Quito","OCTUBRE",1026,611
+"Quito - Esmeraldas","OCTUBRE",3299,612
+"Esmeraldas - Quito","OCTUBRE",3458,613
+"Quito - Esmeraldas - Quito","OCTUBRE",6757,614
+"Guayaquil - Esmeraldas","OCTUBRE",1314,615
+"Esmeraldas - Guayaquil","OCTUBRE",1196,616
+"Guayaquil - Esmeraldas - Guayaquil","OCTUBRE",251,617
+"Quito - Santa Rosa","OCTUBRE",3914,618
+"Santa Rosa - Quito","OCTUBRE",3832,619
+"Quito - Santa Rosa - Quito","OCTUBRE",7746,620
+"Quito - Guayaquil","NOVIEMBRE",55756,621
+"Guayaquil - Quito","NOVIEMBRE",55939,622
+"Quito-Guayaquil-Quito","NOVIEMBRE",111695,623
+"Quito - Cuenca","NOVIEMBRE",16112,624
+"Cuenca - Quito","NOVIEMBRE",16603,625
+"Quito-Cuenca-Quito","NOVIEMBRE",32715,626
+"Guayaquil - Cuenca","NOVIEMBRE",2389,627
+"Cuenca - Guayaquil","NOVIEMBRE",2553,628
+"Guayaquil-Cuenca-Guayaquil","NOVIEMBRE",4942,629
+"Quito - Loja","NOVIEMBRE",5032,630
+"Loja - Quito","NOVIEMBRE",5118,631
+"Quito-Loja-Quito","NOVIEMBRE",1015,632
+"Guayaquil - Loja","NOVIEMBRE",1341,633
+"Loja - Guayaquil","NOVIEMBRE",1405,634
+"Guayaquil-Loja-Guayaquil","NOVIEMBRE",2746,635
+"Quito - Baltra","NOVIEMBRE",9127,636
+"Baltra - Quito","NOVIEMBRE",8888,637
+"Quito-Baltra-Quito","NOVIEMBRE",18015,638
+"Guayaquil - Baltra","NOVIEMBRE",7791,639
+"Baltra - Guayaquil","NOVIEMBRE",8048,640
+"Guayaquil-Baltra-Guayaquil","NOVIEMBRE",15839,641
+"Quito - San Cristobal","NOVIEMBRE",235,642
+"San Cristobal - Quito","NOVIEMBRE",1897,643
+"Quito-San Cristobal-Quito","NOVIEMBRE",4247,644
+"Guayaquil - San Cristobal","NOVIEMBRE",2899,645
+"San Cristobal - Guayaquil","NOVIEMBRE",2796,646
+"Guayaquil-San Cristóbal-Guayaquil","NOVIEMBRE",5695,647
+"Quito - Coca","NOVIEMBRE",6826,648
+"Coca - Quito","NOVIEMBRE",7274,649
+"Quito-Coca-Quito","NOVIEMBRE",141,650
+"Quito - Lago Agrio","NOVIEMBRE",3541,651
+"Lago Agrio - Quito","NOVIEMBRE",3655,652
+"Quito-Lago Agrio - Quito","NOVIEMBRE",7196,653
+"Quito - Macas","NOVIEMBRE",192,654
+"Macas - Quito","NOVIEMBRE",146,655
+"Quito-Macas-Quito","NOVIEMBRE",338,656
+"Macas - Tena","NOVIEMBRE",170,657
+"Macas - Tena","NOVIEMBRE",170,658
+"Quito - Manta","NOVIEMBRE",8298,659
+"Manta - Quito","NOVIEMBRE",9056,660
+"Quito - Manta - Quito","NOVIEMBRE",17354,661
+"Guayaquil - Latacunga","NOVIEMBRE",641,662
+"Latacunga - Guayaquil","NOVIEMBRE",537,663
+"Guayaquil - Latacunga - Guayaquil","NOVIEMBRE",1178,664
+"Latacunga - Coca","NOVIEMBRE",443,665
+"Coca Latacunga","NOVIEMBRE",343,666
+"Latacunga - Coca - Latacunga","NOVIEMBRE",786,667
+"Quito - Tena","NOVIEMBRE",41,668
+"Tena - Quito","NOVIEMBRE",44,669
+"Quito - Tena - Quito","NOVIEMBRE",85,670
+"Quito - Salinas","NOVIEMBRE",586,671
+"Salinas - Quito","NOVIEMBRE",660,672
+"Quito - Salinas - Quito","NOVIEMBRE",1246,673
+"Quito - Esmeraldas","NOVIEMBRE",2923,674
+"Esmeraldas - Quito","NOVIEMBRE",335,675
+"Quito - Esmeraldas - Quito","NOVIEMBRE",6273,676
+"Guayaquil - Esmeraldas","NOVIEMBRE",1142,677
+"Esmeraldas - Guayaquil","NOVIEMBRE",1,678
+"Guayaquil - Esmeraldas - Guayaquil","NOVIEMBRE",2142,679
+"Quito - Santa Rosa","NOVIEMBRE",3317,680
+"Santa Rosa - Quito","NOVIEMBRE",342,681
+"Quito - Santa Rosa - Quito","NOVIEMBRE",6737,682
+"Quito - Guayaquil","DICIEMBRE",62718,683
+"Guayaquil - Quito","DICIEMBRE",53955,684
+"Quito-Guayaquil-Quito","DICIEMBRE",116673,685
+"Quito - Cuenca","DICIEMBRE",1746,686
+"Cuenca - Quito","DICIEMBRE",15686,687
+"Quito-Cuenca-Quito","DICIEMBRE",33146,688
+"Guayaquil - Cuenca","DICIEMBRE",2567,689
+"Cuenca - Guayaquil","DICIEMBRE",2442,690
+"Guayaquil-Cuenca-Guayaquil","DICIEMBRE",5009,691
+"Quito - Loja","DICIEMBRE",5167,692
+"Loja - Quito","DICIEMBRE",4813,693
+"Quito-Loja-Quito","DICIEMBRE",998,694
+"Guayaquil - Loja","DICIEMBRE",1604,695
+"Loja - Guayaquil","DICIEMBRE",1477,696
+"Guayaquil-Loja-Guayaquil","DICIEMBRE",3081,697
+"Quito - Baltra","DICIEMBRE",10464,698
+"Baltra - Quito","DICIEMBRE",8542,699
+"Quito-Baltra-Quito","DICIEMBRE",19006,700
+"Guayaquil - Baltra","DICIEMBRE",7439,701
+"Baltra - Guayaquil","DICIEMBRE",7342,702
+"Guayaquil-Baltra-Guayaquil","DICIEMBRE",14781,703
+"Quito - San Cristobal","DICIEMBRE",2645,704
+"San Cristobal - Quito","DICIEMBRE",2043,705
+"Quito-San Cristobal-Quito","DICIEMBRE",4688,706
+"Guayaquil - San Cristobal","DICIEMBRE",2886,707
+"San Cristobal - Guayaquil","DICIEMBRE",2866,708
+"Guayaquil-San Cristóbal-Guayaquil","DICIEMBRE",5752,709
+"Quito - Coca","DICIEMBRE",6927,710
+"Coca - Quito","DICIEMBRE",7248,711
+"Quito-Coca-Quito","DICIEMBRE",14175,712
+"Quito - Lago Agrio","DICIEMBRE",3109,713
+"Lago Agrio - Quito","DICIEMBRE",3548,714
+"Quito-Lago Agrio - Quito","DICIEMBRE",6657,715
+"Quito - Macas","DICIEMBRE",133,716
+"Macas - Quito","DICIEMBRE",103,717
+"Quito-Macas-Quito","DICIEMBRE",236,718
+"Macas - Tena","DICIEMBRE",11,719
+"Macas - Tena","DICIEMBRE",11,720
+"Quito - Manta","DICIEMBRE",10302,721
+"Manta - Quito","DICIEMBRE",8452,722
+"Quito - Manta - Quito","DICIEMBRE",18754,723
+"Guayaquil - Latacunga","DICIEMBRE",631,724
+"Latacunga - Guayaquil","DICIEMBRE",540,725
+"Guayaquil - Latacunga - Guayaquil","DICIEMBRE",1171,726
+"Latacunga - Coca","DICIEMBRE",477,727
+"Coca Latacunga","DICIEMBRE",405,728
+"Latacunga - Coca - Latacunga","DICIEMBRE",882,729
+"Quito - Tena","DICIEMBRE",29,730
+"Tena - Quito","DICIEMBRE",30,731
+"Quito - Tena - Quito","DICIEMBRE",59,732
+"Quito - Salinas","DICIEMBRE",620,733
+"Salinas - Quito","DICIEMBRE",452,734
+"Quito - Salinas - Quito","DICIEMBRE",1072,735
+"Quito - Esmeraldas","DICIEMBRE",358,736
+"Esmeraldas - Quito","DICIEMBRE",3299,737
+"Quito - Esmeraldas - Quito","DICIEMBRE",6879,738
+"Guayaquil - Esmeraldas","DICIEMBRE",1278,739
+"Esmeraldas - Guayaquil","DICIEMBRE",109,740
+"Guayaquil - Esmeraldas - Guayaquil","DICIEMBRE",2368,741
+"Quito - Santa Rosa","DICIEMBRE",3869,742
+"Santa Rosa - Quito","DICIEMBRE",3331,743
+"Quito - Santa Rosa - Quito","DICIEMBRE",72,744
