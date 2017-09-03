@@ -1,26 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>    
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <script src="http://d3js.org/d3.v2.js"></script>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dashboard Entrada de Extranjeros</title>
-</head>
-
-<body>
-
-	<section class="row">
-		<div class="col-xs-12 col-md-4" id="pieChart"></div> 
-		<div class="col-xs-12 col-md-4" id="barChart"></div> 
-		<div class="col-xs-12 col-md-4" id="lineChart"></div>	
-	</section>
-
-    <script type="text/javascript">
     
 /*
 ################ FORMATOS ##################
@@ -41,16 +18,17 @@
 
 	function dsPieChart(){
 
-		var width = 400,
-		height = 400,
+		var margin = {top: 10, right: 0, bottom: 10, left: 0};
+		var width = 200,
+		height = 200,
 		outerRadius = Math.min(width, height) / 2,
-		innerRadius = outerRadius * .999,   
+		innerRadius = outerRadius * .999, //999  
 		// animación
-		innerRadiusFinal = outerRadius * .5,
-		innerRadiusFinal3 = outerRadius* .45,
+		innerRadiusFinal = outerRadius * .10, //5
+		innerRadiusFinal3 = outerRadius* .30, //45
 		color = d3.scale.category20();    //gama de colores
 			   
-		d3.csv('/data/1.EntExt segun continente procedencia.csv', function(data) {
+		d3.csv('https://raw.githubusercontent.com/crisspatri/dashboardturismoecuador/master/public/data/1.EntExt%20segun%20continente%20procedencia.csv', function(data) {
 
 			data =d3.nest()
 				.key(function(d) { return d.ANIO; })
@@ -59,7 +37,7 @@
 	    			total: d3.sum(v, function(d) { return d.ENTRADAS; })
 	    		};})
 				.entries(data);
-				console.log(JSON.stringify(data));
+				//console.log(JSON.stringify(data));
 
 			var vis = d3.select("#pieChart")
 				.append("svg:svg")              //crea el SVG dentro de <body>
@@ -94,7 +72,9 @@
 				.append("svg:title") 
 				.text(function(d) { return d.data.key + ": " + numFormat(d.data.values.total); });			
 
-			d3.selectAll("g.slice").selectAll("path").transition()
+			d3.selectAll("g.slice")
+				.selectAll("path")
+				.transition()
 				.duration(750)
 				.delay(10)
 				.attr("d", arcFinal );
@@ -115,27 +95,31 @@
 			}		    
 			
 			// Titulo de la tarta			
-			vis.append("svg:text")
-				.attr("dy", ".35em")
-				.attr("text-anchor", "middle")
-				.text("Ingreso de extranjeros")
-				.attr("class","title");		   
+			//vis.append("svg:text")
+				//.attr("dy", ".35em")
+				//.attr("dy", "10px")
+				// .attr("text-anchor", "middle")
+				// .text("Ingreso de extranjeros")
+				// .attr("class","title");		   
 
 			function mouseover() {
 				d3.select(this).select("path").transition()
 				.duration(750)
 				.attr("d", arcFinal3);
+
+				document.body.style.cursor = 'pointer';
 			}
 		
 			function mouseout() {
 				d3.select(this).select("path").transition()
 				.duration(750)
 				.attr("d", arcFinal);
+
+				document.body.style.cursor = 'auto';
 			}
 		
 			function up(d, i) {
 				updateBarChart(d.data.key, color(i));
-				updateLineChart(d.data.key, color(i));
 			} 
 
 		}); //FIN DE GRAFICO TARTA
@@ -158,7 +142,7 @@
 	}
 
 	function dsBarChartBasics() {
-		var margin = {top: 30, right: 5, bottom: 20, left: 50},
+		var margin = {top: 30, right: 0, bottom: 30, left: 0},
 		width = 500 - margin.left - margin.right,
 		height = 250 - margin.top - margin.bottom,
 		colorBar = d3.scale.category20(),
@@ -186,7 +170,7 @@
 
 		var firstDatasetBarChart=[];
 
-		d3.csv('/data/1.EntExt segun continente procedencia.csv', function(dataBC) {
+		d3.csv('https://raw.githubusercontent.com/crisspatri/dashboardturismoecuador/master/public/data/1.EntExt%20segun%20continente%20procedencia.csv', function(dataBC) {
 
 			datasetBarChart=dataBC;
 			
@@ -197,7 +181,7 @@
 	    			total: d3.sum(v, function(d) { return d.ENTRADAS; })
 	    		};})
 				.entries(dataBC);
-				console.log(JSON.stringify(dataBC));
+				//console.log(JSON.stringify(dataBC));
 			
 			dataBC.forEach(function(d,i){
 				firstDatasetBarChart.push(dataBC[i]);
@@ -268,23 +252,40 @@
 				.append("text")
 				.text(function(d) { return d.key;})
 				.attr("text-anchor", "middle")
+				.on("click", up)
+				.on("mouseover", mouseover)
+				.on("mouseout", mouseout)
 				// posicion x a partir del borde izquierdo más la mitad de la anchura de la barra
 				.attr("x", function(d, i) {
 					return (i * (width / firstDatasetBarChart.length)) + ((width / firstDatasetBarChart.length - barPadding) / 2);
 				})
 				.attr("y", 15)
-				.attr("class", "xAxis");			
+				.attr("class", "xAxis");				
 		 
 			// Titulo
 			
 			svg.append("text")
 				.attr("x", (width + margin.left + margin.right)/2)
-				.attr("y", 15)
-				.attr("class","title")				
-				.attr("text-anchor", "middle")
-				.text("Entradas por continentes 2011-2015");				
+				.attr("y", 25)
+				//.attr("class","title")				
+				.attr("id","lineChartTitle1")
+				.text("Años 2011-2015");	
+
+			function up(d, i) {
+				updateLineChart(d.key, '#00FF5A');
+			} 
+	
+			function mouseover() {
+				document.body.style.cursor = 'pointer';
+			}
+		
+			function mouseout() {
+				document.body.style.cursor = 'auto';
+			}			
 		})		
 	}
+
+
 
 	dsBarChart();
  
@@ -307,7 +308,7 @@
     			total: d3.sum(v, function(d) { return d.ENTRADAS; })
     		};})
 			.entries(currentDatasetBarChart);
-			console.log(JSON.stringify(currentDatasetBarChart));
+			//console.log(JSON.stringify(currentDatasetBarChart));
 			
 		currentDatasetBarChart.sort (
 			function(a, b) { 
@@ -375,6 +376,9 @@
 			.append("text")
 			.text(function(d) { return d.key;})
 			.attr("text-anchor", "middle")
+			.on("click", up)
+			.on("mouseover", mouseover)
+			.on("mouseout", mouseout)
 			// posicion x a partir del borde izquierdo más la mitad de la anchura de la barra
 			.attr("x", function(d, i) {
 				return (i * (width / currentDatasetBarChart.length)) + ((width / currentDatasetBarChart.length - barPadding) / 2);
@@ -382,22 +386,33 @@
 			.attr("y", 15)
 			.attr("class", "xAxis");	
 
-		svg.selectAll("text.title") 
+		svg.selectAll("#lineChartTitle1") 
 			.attr("x", (width + margin.left + margin.right)/2)
-			.attr("y", margin.top /2)
-			.attr("class","title")				
-			.attr("text-anchor", "middle")
-			.text("Entradas por continentes " + anio);
+			.attr("y", 25)
+			.attr("id","lineChartTitle1")
+			.text("Año " + anio);
+
+		function up(d, i) {
+				updateLineChart(d.key, '#00FF5A');
+		} 
+	
+		function mouseover() {
+			document.body.style.cursor = 'pointer';
+		}
+	
+		function mouseout() {
+			document.body.style.cursor = 'auto';
+		}	
 	}
 // ############# FIN BARRAS ###################
 
 // ############# LINE CHART ###################
 	var datasetLineChart = [];
 
-	function datasetLineChartChosen(anio) {
+	function datasetLineChartChosen(continente) {
 		var ds = [];
 		datasetLineChart.forEach(function(d,i){
-				if (d.ANIO==anio)
+				if (d.CONTINENTE==continente)
 					ds.push(datasetLineChart[i]);			
 		});
 
@@ -405,9 +420,9 @@
 	}
 
 	function dsLineChartBasics() {
-		var margin = {top: 20, right: 10, bottom: 0, left: 50},
-		    width = 500 - margin.left - margin.right,
-		    height = 150 - margin.top - margin.bottom;
+		var margin = {top: 70, right: 10, bottom: 0, left: 10},
+		    width = 400 - margin.left - margin.right,
+		    height = 250 - margin.top - margin.bottom;
 		
 		return {
 			margin : margin, 
@@ -428,16 +443,15 @@
 
 	   	var firstDatasetLineChart=[];
 
-	   	d3.csv('/data/1.EntExt segun continente procedencia.csv', function(dataLC) {
+	   	d3.csv('https://raw.githubusercontent.com/crisspatri/dashboardturismoecuador/master/public/data/1.EntExt%20segun%20continente%20procedencia.csv', function(dataLC) {
 
 			datasetLineChart=dataLC;
 
 			dataLC =d3.nest()
+				//.key(function(d) { return d.CONTINENTE; })
 				.key(function(d) { return d.ANIO; })
-				.rollup(function(v) { return {
-	    			count: v.length,
-	    			total: d3.sum(v, function(d) { return d.ENTRADAS; })
-	    		};})
+				.rollup(function(v) { return d3.sum(v, function(d) { return d.ENTRADAS; });
+				})
 				.entries(dataLC);
 				console.log(JSON.stringify(dataLC));
 			
@@ -445,28 +459,24 @@
 				firstDatasetLineChart.push(dataLC[i]);
 			});
 
-			// firstDatasetLineChart.sort (
-			// 	function(a, b) { 
-			// 		return d3.descending(a.values.total, b.values.total);
+			// firstDatasetLineChart.forEach(function(d){				
+			// 		d3.select("body").append("p").text(d.key + " " + d.values.total);
 			// });
-
-			firstDatasetLineChart.forEach(function(d){				
-					d3.select("body").append("p").text(d.key + " " + d.values.total);
-			});
 
 			var xScale = d3.scale.linear()
 			    .domain([0, firstDatasetLineChart.length-1])
 			    .range([0, width]);
 
 			var yScale = d3.scale.linear()
-			    .domain([0, d3.max(firstDatasetLineChart, function(d) { return d.values.total; })])
+			    .domain([0, d3.max(firstDatasetLineChart, function(d) { return d.values; })])
 			    .range([height, 0]);
 	
 			var line = d3.svg.line()
 			    .x(function(d, i) { return xScale(i); })
-			    .y(function(d) { return yScale(d.values.total); });
+			    .y(function(d) { return yScale(d.values); });
 	
-			var svg = d3.select("#lineChart").append("svg")
+			var svg = d3.select("#lineChart")
+				.append("svg")
 			    .datum(firstDatasetLineChart)
 			    .attr("width", width + margin.left + margin.right)
 			    .attr("height", height + margin.top + margin.bottom)
@@ -478,45 +488,114 @@
 			    .attr("id", "lineChartPlot");
 
 				/* titulos descriptivos - inicio */
-			var dsLength=firstDatasetLineChart.length;
-
 			plot.append("text")
-				.text(firstDatasetLineChart[dsLength-1].values.total)
+				.text(numFormat(firstDatasetLineChart[firstDatasetLineChart.length-1].values))
 				.attr("id","lineChartTitle2")
 				.attr("x",width/2)
 				.attr("y",height/2);
-			/* titulos descriptivos - fin */
-			    
+
+			/* titulos descriptivos - fin */			    
 			plot.append("path")
 			    .attr("class", "line")
 			    .attr("d", line)	
 			    // add color
-				.attr("stroke", "lightgrey");
+				.attr("stroke", '#00FF5A');
 	  
 			plot.selectAll(".dot")
 			    .data(firstDatasetLineChart)
-			  	 .enter().append("circle")
+			  	.enter()
+			  	.append("circle")
 			    .attr("class", "dot")
-			    .attr("fill", function (d) { return d.values.total==d3.min(firstDatasetLineChart, function(d) { return d.values.total; }) ? "red" : (d.values.total==d3.max(firstDatasetLineChart, function(d) { return d.values.total; }) ? "green" : "white") } )
+			    .attr("fill", function (d) { return d.values==d3.min(firstDatasetLineChart, function(d) { return d.values; }) ? "red" : (d.values==d3.max(firstDatasetLineChart, function(d) { return d.values; }) ? "green" : "white") } )
 			    .attr("cx", line.x())
 			    .attr("cy", line.y())
 			    .attr("r", 3.5)
 			    .attr("stroke", "lightgrey")
 			    .append("title")
-			    .text(function(d) { return d.key + ": " + formatAsInteger(d.values.total); });
+			    .text(function(d) { return d.key + ": " + numFormat(d.values); });
 
 			svg.append("text")
-				.text("Resultados en 2015")
+				.text("Total entradas 2011-2015")
 				.attr("id","lineChartTitle1")	
 				.attr("x",margin.left + ((width + margin.right)/2))
-				.attr("y", 10);
+				.attr("y", 25);
 		});
 	}
 
 	dsLineChart();
 
-// ############# FIN LINE CHART ###################
+	function updateLineChart(continente, colorChosen) {
 
-    </script>
-  </body>
-</html>
+		var currentDatasetLineChart = datasetLineChartChosen(continente);   
+		var basics = dsLineChartBasics();
+		
+		var margin = basics.margin,
+			width = basics.width,
+		   	height = basics.height;
+
+	   	currentDatasetLineChart =d3.nest()
+			.key(function(d) { return d.ANIO; })
+			.rollup(function(v) { return {
+    			count: v.length,
+    			total: d3.sum(v, function(d) { return d.ENTRADAS; })
+    		};})
+			.entries(currentDatasetLineChart);
+			console.log(JSON.stringify(currentDatasetLineChart));
+
+		var xScale = d3.scale.linear()
+		    .domain([0, currentDatasetLineChart.length-1])
+		    .range([0, width]);
+
+		var yScale = d3.scale.linear()
+		    .domain([0, d3.max(currentDatasetLineChart, function(d) { return d.values.total; })])
+		    .range([height, 0]);
+		
+		var line = d3.svg.line()
+		    .x(function(d, i) { return xScale(i); })
+		    .y(function(d) { return yScale(d.values.total); });
+
+		var plot = d3.select("#lineChartPlot")
+	   		.datum(currentDatasetLineChart);
+		   
+		/* titulos descriptivos - inicio */		
+		plot.select("text")
+			.text(numFormat(currentDatasetLineChart[currentDatasetLineChart.length-1].values.total));
+		/* titulos descriptivos -  fin */
+		   
+		plot.select("path")
+			.transition()
+			.duration(750)			    
+			.attr("class", "line")
+			.attr("d", line)	
+			// add color
+			.attr("stroke", colorChosen);
+		
+		plot.selectAll(".dot").remove();
+		plot.selectAll("title").remove();
+
+		var path = plot
+			.selectAll(".dot")
+			.data(currentDatasetLineChart)
+			.enter()
+		  	.append("circle")
+			// .transition()
+			// .duration(750)
+			.attr("class", "dot")
+			.attr("fill", function (d) { return d.values.total==d3.min(currentDatasetLineChart, function(d) { return d.values.total; }) ? "red" : (d.values.total==d3.max(currentDatasetLineChart, function(d) { return d.values.total; }) ? "green" : "white") } )
+			.attr("cx", line.x())
+			.attr("cy", line.y())
+			.attr("r", 3.5)
+			// add color
+			.attr("stroke", colorChosen)
+			.append("title")
+		    .text(function(d) { return d.key + ": " + numFormat(d.values.total); });  
+
+	    var svg = d3.select("#lineChart")
+	    	.selectAll("#lineChartTitle1")
+			.text(continente + " 2011-2015")
+			.attr("id","lineChartTitle1")	
+			.attr("x",margin.left + ((width + margin.right)/2))
+			.attr("y", 25); 
+	}
+
+// ############# FIN LINE CHART ###################

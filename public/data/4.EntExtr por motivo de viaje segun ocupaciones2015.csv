@@ -1,76 +1,76 @@
 "OCUPACIONES","MOTIVO","ENTRADAS","ID"
 "Ocupaciones Militares","TURISMO",634,1
 "Directores y Gerentes","TURISMO",13094,2
-"Profesionales, cientÌficos e intelectuales","TURISMO",140176,3
-"TÈcnicos y profesionales de nivel medio","TURISMO",12242,4
+"Profesionales, cient√≠ficos e intelectuales","TURISMO",140176,3
+"T√©cnicos y profesionales de nivel medio","TURISMO",12242,4
 "Personal de Apoyo Administrativo","TURISMO",20727,5
 "Trabajadores de los servicios y vendedores de comercios y mercados","TURISMO",301223,6
 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","TURISMO",10394,7
-"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios","TURISMO",25239,8
-"Operadores de instalaciones y m·quinas y ensambladores","TURISMO",10196,9
+"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios","TURISMO",25239,8
+"Operadores de instalaciones y m√°quinas y ensambladores","TURISMO",10196,9
 "Ocupaciones elementales","TURISMO",26696,10
 "Jubilados y Pensionistas","TURISMO",81392,11
 "Amas de casa","TURISMO",58532,12
 "Estudiantes","TURISMO",251603,13
-"Menores de 6 aÒos","TURISMO",36997,14
+"Menores de 6 a√±os","TURISMO",36997,14
 "Sin Especificar","TURISMO",115869,15
 "Ocupaciones Militares","NEGOCIOS",40,16
 "Directores y Gerentes","NEGOCIOS",6028,17
-"Profesionales, cientÌficos e intelectuales","NEGOCIOS",29006,18
-"TÈcnicos y profesionales de nivel medio","NEGOCIOS",293,19
+"Profesionales, cient√≠ficos e intelectuales","NEGOCIOS",29006,18
+"T√©cnicos y profesionales de nivel medio","NEGOCIOS",293,19
 "Personal de Apoyo Administrativo","NEGOCIOS",2579,20
 "Trabajadores de los servicios y vendedores de comercios y mercados","NEGOCIOS",1825,21
 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","NEGOCIOS",347,22
-"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios","NEGOCIOS",568,23
-"Operadores de instalaciones y m·quinas y ensambladores","NEGOCIOS",933,24
+"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios","NEGOCIOS",568,23
+"Operadores de instalaciones y m√°quinas y ensambladores","NEGOCIOS",933,24
 "Ocupaciones elementales","NEGOCIOS",1465,25
 "Jubilados y Pensionistas","NEGOCIOS",343,26
 "Amas de casa","NEGOCIOS",133,27
 "Estudiantes","NEGOCIOS",157,28
-"Menores de 6 aÒos","NEGOCIOS",0,29
+"Menores de 6 a√±os","NEGOCIOS",0,29
 "Sin Especificar","NEGOCIOS",4004,30
 "Ocupaciones Militares","EVENTOS",250,31
 "Directores y Gerentes","EVENTOS",4806,32
-"Profesionales, cientÌficos e intelectuales","EVENTOS",30424,33
-"TÈcnicos y profesionales de nivel medio","EVENTOS",35029,34
+"Profesionales, cient√≠ficos e intelectuales","EVENTOS",30424,33
+"T√©cnicos y profesionales de nivel medio","EVENTOS",35029,34
 "Personal de Apoyo Administrativo","EVENTOS",5297,35
 "Trabajadores de los servicios y vendedores de comercios y mercados","EVENTOS",24514,36
 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","EVENTOS",555,37
-"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios","EVENTOS",1149,38
-"Operadores de instalaciones y m·quinas y ensambladores","EVENTOS",7363,39
+"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios","EVENTOS",1149,38
+"Operadores de instalaciones y m√°quinas y ensambladores","EVENTOS",7363,39
 "Ocupaciones elementales","EVENTOS",2779,40
 "Jubilados y Pensionistas","EVENTOS",803,41
 "Amas de casa","EVENTOS",179,42
 "Estudiantes","EVENTOS",548,43
-"Menores de 6 aÒos","EVENTOS",0,44
+"Menores de 6 a√±os","EVENTOS",0,44
 "Sin Especificar","EVENTOS",838,45
 "Ocupaciones Militares","ESTUDIOS",5,46
 "Directores y Gerentes","ESTUDIOS",13,47
-"Profesionales, cientÌficos e intelectuales","ESTUDIOS",514,48
-"TÈcnicos y profesionales de nivel medio","ESTUDIOS",27,49
+"Profesionales, cient√≠ficos e intelectuales","ESTUDIOS",514,48
+"T√©cnicos y profesionales de nivel medio","ESTUDIOS",27,49
 "Personal de Apoyo Administrativo","ESTUDIOS",39,50
 "Trabajadores de los servicios y vendedores de comercios y mercados","ESTUDIOS",269,51
 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","ESTUDIOS",2,52
-"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios","ESTUDIOS",3,53
-"Operadores de instalaciones y m·quinas y ensambladores","ESTUDIOS",4,54
+"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios","ESTUDIOS",3,53
+"Operadores de instalaciones y m√°quinas y ensambladores","ESTUDIOS",4,54
 "Ocupaciones elementales","ESTUDIOS",25,55
 "Jubilados y Pensionistas","ESTUDIOS",1,56
 "Amas de casa","ESTUDIOS",9,57
 "Estudiantes","ESTUDIOS",513,58
-"Menores de 6 aÒos","ESTUDIOS",0,59
+"Menores de 6 a√±os","ESTUDIOS",0,59
 "Sin Especificar","ESTUDIOS",0,60
 "Ocupaciones Militares","OTROS",212,61
 "Directores y Gerentes","OTROS",7651,62
-"Profesionales, cientÌficos e intelectuales","OTROS",44083,63
-"TÈcnicos y profesionales de nivel medio","OTROS",35849,64
+"Profesionales, cient√≠ficos e intelectuales","OTROS",44083,63
+"T√©cnicos y profesionales de nivel medio","OTROS",35849,64
 "Personal de Apoyo Administrativo","OTROS",7337,65
 "Trabajadores de los servicios y vendedores de comercios y mercados","OTROS",53282,66
 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","OTROS",1521,67
-"Oficiales, operarios y artesanos de artes mec·nicas y de otros oficios","OTROS",4091,68
-"Operadores de instalaciones y m·quinas y ensambladores","OTROS",19117,69
+"Oficiales, operarios y artesanos de artes mec√°nicas y de otros oficios","OTROS",4091,68
+"Operadores de instalaciones y m√°quinas y ensambladores","OTROS",19117,69
 "Ocupaciones elementales","OTROS",3897,70
 "Jubilados y Pensionistas","OTROS",6017,71
 "Amas de casa","OTROS",11296,72
 "Estudiantes","OTROS",22915,73
-"Menores de 6 aÒos","OTROS",2941,74
+"Menores de 6 a√±os","OTROS",2941,74
 "Sin Especificar","OTROS",22414,75

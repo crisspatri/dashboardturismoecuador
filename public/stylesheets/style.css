@@ -32,10 +32,10 @@ a {
   float: left;
 }
 
-.title {
- font-size: 40px;
- float: left;
-}
+/*.title {
+ font-size: 400px;
+ /*float: left;*/
+}*/
 
 .define {
 /*width:960px;	*/
@@ -52,27 +52,41 @@ footer {
 
 /*------------------------------Para las graficas-------------------------*/
 
-
-#pieChart {    
-	position:absolute;
-	top:10px;
-	left:10px;
-	width:400px;
-	height: 400px; 
+#titleRow{
+	width:35px;
+	height: 250px;
+	margin: 7px;
+	
 }
 
-#lineChart {    
-	position:absolute;
-	top:10px;
-	left:410px;
-	height: 150px;
+.vertical-text {
+	color: gray;
+	transform: rotate(270deg);
+   	margin-top: 170px;
+}
+
+#pieChart {  
+	/*top:10px
+	left:10px;
+	 */
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+
+#lineChart {  
+	width:420px;
+	height: 250px;
+	margin: 7px;
 }
 
 #barChart {
-	position:absolute;
-	top:160px;
+	/*top:160px;
 	left:410px;
+	height: 250px;*/
+	width:550px;
 	height: 250px;
+	margin: 7px;
 }
 
 .slice {
@@ -110,8 +124,7 @@ footer {
 
 .title {
 	 font-family: Verdana;
-    font-size: 15px;	
-		
+    font-size: 15px;			
 }
 
 .xAxis {
@@ -143,17 +156,30 @@ td {
 #lineChartTitle1 {
 	font-family: Verdana;
 	font-size  : 14px;
-	fill       : lightgrey;
+	fill       : grey;
 	font-weight: bold;
 	text-anchor: middle;
 }
 
 #lineChartTitle2 {
 	font-family: Verdana;
-	font-size  : 72px;
-	fill       : grey;
+	font-size  : 50px;
+	fill       : lightgrey;
 	text-anchor: middle;
 	font-weight: bold;
 	/*font-style: italic;*/
 }
 				 
+
+.titleDashboard {
+	font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;	
+    color: gray;		
+}
+
+#divTitleDashboard {
+	width: 100%;
+	height: 30px;
+	margin: 7px 7px 7px 7px;		
+}
