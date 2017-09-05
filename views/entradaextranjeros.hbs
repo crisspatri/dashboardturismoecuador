@@ -5,7 +5,12 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <script src="http://d3js.org/d3.v2.js"></script>
 
-    <script src='../javascripts/porContinentes.js'></script>
+    <script src='../javascripts/continentes.js'></script>
+	<script src='../javascripts/jefaturasMigracion.js'></script>
+	<script src='../javascripts/motivoViaje.js'></script>
+	<script src='../javascripts/edades.js'></script>
+	<script src='../javascripts/genero.js'></script>
+	<script src='../javascripts/medioTransporte.js'></script>
 
     <link rel='stylesheet' href='../stylesheets/style.css' />
 
@@ -25,7 +30,7 @@
 
 	<section class="row" style="width: 100%">
 		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
-			<h3 class="vertical-text">Continentes</h3>
+			<h3 class="vertical-text" id="idContinentes">Continentes</h3>
 		</div> 
 		<div align="center" class="col-xs-12 col-md-4" id="pieChart" style="background-color: white;padding: 20px"></div> 
 		<div align="center" class="col-xs-12 col-md-4" id="barChart" style="background-color: white"></div> 
@@ -34,14 +39,47 @@
 
 	<section class="row" style="width: 100%">
 		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
-			<h3 class="vertical-text">Continentes</h3>
+			<h3 class="vertical-text" id="idMigracion">Jef.Migración</h3>
 		</div> 
-		<div align="center" class="col-xs-12 col-md-4" id="pieChart" style="background-color: white;padding: 20px"></div> 
-		<div align="center" class="col-xs-12 col-md-4" id="barChart" style="background-color: white"></div> 
-		<div align="center" class="col-xs-12 col-md-4" id="lineChart" style="background-color: white"></div>	
+		<div align="center" class="col-xs-12 col-md-4" id="pieChart3" style="background-color: white;padding: 20px"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="barChart3" style="background-color: white"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="lineChart3" style="background-color: white"></div>	
 	</section>
 
+	<section class="row" style="width: 100%">
+		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
+			<h3 class="vertical-text" id="idMotivo">Motivo</h3>
+		</div> 
+		<div align="center" class="col-xs-12 col-md-4" id="pieChart4" style="background-color: white;padding: 20px"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="barChart4" style="background-color: white"></div> 	
+	</section>
+
+	<section class="row" style="width: 100%">
+		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
+			<h3 class="vertical-text" id="idEdades">Edades</h3>
+		</div> 
+		<div align="center" class="col-xs-12 col-md-4" id="pieChart5" style="background-color: white;padding: 20px"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="barChart5" style="background-color: white"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="lineChart5" style="background-color: white"></div>	
+	</section>
+
+	<section class="row" style="width: 100%">
+		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
+			<h3 class="vertical-text" id="idGenero">Género</h3>
+		</div> 
+		<div align="center" class="col-xs-12 col-md-4" id="pieChart6" style="background-color: white;padding: 20px"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="barChart6" style="background-color: white"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="lineChart6" style="background-color: white"></div>	
+	</section>
 	
+	<section class="row" style="width: 100%">
+		<div class="col-xs-12 col-md-4" id="titleRow" style="background-color: white;">
+			<h3 class="vertical-text" id="idTransporte">Transporte</h3>
+		</div> 
+		<div align="center" class="col-xs-12 col-md-4" id="pieChart7" style="background-color: white;padding: 20px"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="barChart7" style="background-color: white"></div> 
+		<div align="center" class="col-xs-12 col-md-4" id="lineChart7" style="background-color: white"></div>	
+	</section>
    
   </body>
 </html>

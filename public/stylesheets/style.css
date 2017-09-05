@@ -66,10 +66,83 @@ footer {
 }
 
 #pieChart {  
-	/*top:10px
-	left:10px;
-	 */
 	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart3 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart4 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart5 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart6 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart7 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart8 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+#pieChart9 {  
+	width:250px;
+	height: 250px;
+	margin: 7px;
+}
+
+#barChart {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart3 {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart4 {
+	width:980px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart5 {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart6 {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart7 {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart8 {
+	width:550px;
+	height: 250px;
+	margin: 7px;
+}
+#barChart9 {
+	width:980px;
 	height: 250px;
 	margin: 7px;
 }
@@ -80,14 +153,32 @@ footer {
 	margin: 7px;
 }
 
-#barChart {
-	/*top:160px;
-	left:410px;
-	height: 250px;*/
-	width:550px;
+#lineChart3 {  
+	width:420px;
 	height: 250px;
 	margin: 7px;
 }
+#lineChart5 {  
+	width:420px;
+	height: 250px;
+	margin: 7px;
+}
+#lineChart6 {  
+	width:420px;
+	height: 250px;
+	margin: 7px;
+}
+#lineChart7 {  
+	width:420px;
+	height: 250px;
+	margin: 7px;
+}
+#lineChart8 {  
+	width:420px;
+	height: 250px;
+	margin: 7px;
+}
+
 
 .slice {
    font-size: 12pt;
